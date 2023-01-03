@@ -23,7 +23,7 @@ jobs:
           writeTo: "README.md"
 
       - name: Upload artifact
-        uses: actions/upload-artifact@3446296876d12d4e3a0f3145a3c87e67bf0a16b5 # pin@v1
+        uses: actions/upload-artifact@83fd05a356d7e2593de66fc9913b3002723633cb # pin@v1
         with:
           name: README.md
           path: README.md

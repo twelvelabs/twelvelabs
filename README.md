@@ -4,7 +4,6 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go. (1 week ago)
 - [gostamp/docker-image-tools](https://github.com/gostamp/docker-image-tools) - Docker image testing tools (2 weeks ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (3 weeks ago)
@@ -12,7 +11,6 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/gh-setup](https://github.com/twelvelabs/gh-setup) - A GitHub CLI extension to setup new repositories (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
-
 
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ([v0.4.10](https://github.com/goodwithtech/dockle/releases/tag/v0.4.10), 1 day ago) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.5.1](https://github.com/twelvelabs/termite/releases/tag/v0.5.1), 1 week ago) - Termite is a collection of utilities for building CLI tools in Go.
@@ -22,7 +20,6 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust is an operator for distributing trust bundles across a Kubernetes cluster. (2 weeks ago)
 - [jetstack/paranoia](https://github.com/jetstack/paranoia) - Inspect certificate authorities in container images (2 weeks ago)
 - [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs (2 weeks ago)
@@ -30,7 +27,6 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [kinluek/sqspoller](https://github.com/kinluek/sqspoller) - SQS-Poller is a simple queue polling framework, designed specifically to work with AWS SQS. (2 weeks ago)
 
 #### 📚 Recent books I've read
-
 
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (1 month ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (4 months ago)
@@ -40,7 +36,6 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📜 My recent blog posts
 
-
 - [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (1 day ago)
 - [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (1 month ago)
 
@@ -49,4 +44,6 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - Twitter: <https://twitter.com/twelvelabs>
 - Blog: <https://twelvelabs.com>
 
-> Generated with [readme-scribe](https://github.com/muesli/readme-scribe)
+---
+
+<sup>Generated with [readme-scribe](https://github.com/muesli/readme-scribe)</sup>

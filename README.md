@@ -22,7 +22,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [contribsys/sparq](https://github.com/contribsys/sparq) - Go-based Fediserver (2 days ago)
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server (2 days ago)
-- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust is an operator for distributing trust bundles across a Kubernetes cluster. (3 weeks ago)
+- [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (3 weeks ago)
 - [jetstack/paranoia](https://github.com/jetstack/paranoia) - Inspect certificate authorities in container images (3 weeks ago)
 - [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs (3 weeks ago)
 

@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (today)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (3 days ago)
 - [contribsys/sparq](https://github.com/contribsys/sparq) - Go-based Fediserver (6 days ago)
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server (6 days ago)
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (3 weeks ago)
-- [jetstack/paranoia](https://github.com/jetstack/paranoia) - Inspect certificate authorities in container images (3 weeks ago)
 
 #### 📚 Recent books I've read
 

@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.21.3-pre.0](https://github.com/cli/cli/releases/tag/v2.21.3-pre.0), 2 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.21.3-pre.0](https://github.com/cli/cli/releases/tag/v2.21.3-pre.0), 3 days ago) - GitHub’s official command line tool
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ([v0.4.10](https://github.com/goodwithtech/dockle/releases/tag/v0.4.10), 1 week ago) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.5.1](https://github.com/twelvelabs/termite/releases/tag/v0.5.1), 2 weeks ago) - Termite is a collection of utilities for building CLI tools in Go.
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v2.1.1](https://github.com/hashicorp/go-getter/releases/tag/v2.1.1), 1 month ago) - Package for downloading things from a string URL using a variety of protocols.
@@ -20,8 +20,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (3 days ago)
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (6 days ago)
+- [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (4 days ago)
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 week ago)
 - [contribsys/sparq](https://github.com/contribsys/sparq) - Go-based Fediserver (1 week ago)
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server (1 week ago)
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (4 weeks ago)

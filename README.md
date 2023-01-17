@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/.github](https://github.com/twelvelabs/.github) (1 week ago)
+- [twelvelabs/.github](https://github.com/twelvelabs/.github) (2 weeks ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go. (3 weeks ago)
 - [gostamp/docker-image-tools](https://github.com/gostamp/docker-image-tools) - Docker image testing tools (4 weeks ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 month ago)
@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.21.3-pre.0](https://github.com/cli/cli/releases/tag/v2.21.3-pre.0), 6 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.21.3-pre.0](https://github.com/cli/cli/releases/tag/v2.21.3-pre.0), 1 week ago) - GitHub’s official command line tool
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ([v0.4.10](https://github.com/goodwithtech/dockle/releases/tag/v0.4.10), 2 weeks ago) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.5.1](https://github.com/twelvelabs/termite/releases/tag/v0.5.1), 3 weeks ago) - Termite is a collection of utilities for building CLI tools in Go.
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v2.1.1](https://github.com/hashicorp/go-getter/releases/tag/v2.1.1), 1 month ago) - Package for downloading things from a string URL using a variety of protocols.
@@ -22,8 +22,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (1 week ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 week ago)
-- [contribsys/sparq](https://github.com/contribsys/sparq) - Go-based Fediserver (1 week ago)
-- [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server (1 week ago)
+- [contribsys/sparq](https://github.com/contribsys/sparq) - Go-based Fediserver (2 weeks ago)
+- [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server (2 weeks ago)
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster. (1 month ago)
 
 #### 📚 Recent books I've read

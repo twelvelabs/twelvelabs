@@ -6,7 +6,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [twelvelabs/.github](https://github.com/twelvelabs/.github) (2 weeks ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go. (3 weeks ago)
-- [gostamp/docker-image-tools](https://github.com/gostamp/docker-image-tools) - Docker image testing tools (4 weeks ago)
+- [gostamp/docker-image-tools](https://github.com/gostamp/docker-image-tools) - Docker image testing tools (1 month ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 month ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (1 month ago)
 
@@ -28,7 +28,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
-- [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (1 month ago)
+- [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (2 months ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (4 months ago)
 - [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (4 months ago)
 - [These Prisoning Hills](https://www.goodreads.com/review/show/4691121446?utm_medium=api&amp;utm_source=rss) (4 months ago)

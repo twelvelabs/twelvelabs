@@ -37,7 +37,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 📜 My recent blog posts
 
 - [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (2 weeks ago)
-- [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (1 month ago)
+- [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (2 months ago)
 
 #### 📫 How to reach me
 

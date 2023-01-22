@@ -28,11 +28,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
+- [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (today)
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (2 months ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (4 months ago)
 - [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (4 months ago)
 - [These Prisoning Hills](https://www.goodreads.com/review/show/4691121446?utm_medium=api&amp;utm_source=rss) (4 months ago)
-- [Cyber Mage](https://www.goodreads.com/review/show/4899957856?utm_medium=api&amp;utm_source=rss) (5 months ago)
 
 #### 📜 My recent blog posts
 

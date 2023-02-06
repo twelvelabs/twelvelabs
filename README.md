@@ -5,7 +5,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (1 week ago)
-- [twelvelabs/turing-pi](https://github.com/twelvelabs/turing-pi) (1 week ago)
+- [twelvelabs/turing-pi](https://github.com/twelvelabs/turing-pi) (2 weeks ago)
 - [twelvelabs/.github](https://github.com/twelvelabs/.github) (1 month ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go. (1 month ago)
 - [gostamp/docker-image-tools](https://github.com/gostamp/docker-image-tools) - Docker image testing tools (1 month ago)
@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (3 weeks ago)
+- [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (4 weeks ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 month ago)
 - [contribsys/sparq](https://github.com/contribsys/sparq) - Go-based Fediserver (1 month ago)
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server (1 month ago)

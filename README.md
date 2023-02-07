@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (1 week ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (2 weeks ago)
 - [twelvelabs/turing-pi](https://github.com/twelvelabs/turing-pi) (2 weeks ago)
 - [twelvelabs/.github](https://github.com/twelvelabs/.github) (1 month ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go. (1 month ago)
@@ -20,8 +20,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [k1LoW/octocov](https://github.com/k1LoW/octocov) - octocov is a toolkit for collecting code metrics (code coverage, code to test ratio and test execution time). (today)
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (today)
+- [k1LoW/octocov](https://github.com/k1LoW/octocov) - octocov is a toolkit for collecting code metrics (code coverage, code to test ratio and test execution time). (1 day ago)
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (1 day ago)
 - [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (4 weeks ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 month ago)
 - [contribsys/sparq](https://github.com/contribsys/sparq) - Go-based Fediserver (1 month ago)

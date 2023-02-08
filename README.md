@@ -20,9 +20,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [k1LoW/octocov](https://github.com/k1LoW/octocov) - octocov is a toolkit for collecting code metrics (code coverage, code to test ratio and test execution time). (1 day ago)
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (1 day ago)
-- [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (4 weeks ago)
+- [k1LoW/octocov](https://github.com/k1LoW/octocov) - octocov is a toolkit for collecting code metrics (code coverage, code to test ratio and test execution time). (2 days ago)
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (2 days ago)
+- [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (1 month ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 month ago)
 - [contribsys/sparq](https://github.com/contribsys/sparq) - Go-based Fediserver (1 month ago)
 

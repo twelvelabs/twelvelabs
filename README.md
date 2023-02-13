@@ -12,10 +12,10 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v1.7.0](https://github.com/hashicorp/go-getter/releases/tag/v1.7.0), today) - Package for downloading things from a string URL using a variety of protocols.
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ([v0.4.11](https://github.com/goodwithtech/dockle/releases/tag/v0.4.11), 1 day ago) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [cli/cli](https://github.com/cli/cli) ([v2.23.0](https://github.com/cli/cli/releases/tag/v2.23.0), 5 days ago) - GitHub’s official command line tool
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.5.1](https://github.com/twelvelabs/termite/releases/tag/v0.5.1), 1 month ago) - Termite is a collection of utilities for building CLI tools in Go.
-- [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v2.1.1](https://github.com/hashicorp/go-getter/releases/tag/v2.1.1), 2 months ago) - Package for downloading things from a string URL using a variety of protocols.
 - [gostamp/docker-image-tools](https://github.com/gostamp/docker-image-tools) ([v1.1.2](https://github.com/gostamp/docker-image-tools/releases/tag/v1.1.2), 2 months ago) - Docker image testing tools
 
 #### ⭐ Recent stars

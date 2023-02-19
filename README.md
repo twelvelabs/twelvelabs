@@ -4,11 +4,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) (today)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (3 weeks ago)
 - [twelvelabs/turing-pi](https://github.com/twelvelabs/turing-pi) (3 weeks ago)
 - [twelvelabs/.github](https://github.com/twelvelabs/.github) (1 month ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go. (1 month ago)
-- [gostamp/docker-image-tools](https://github.com/gostamp/docker-image-tools) - Docker image testing tools (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

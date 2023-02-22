@@ -4,18 +4,18 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (today)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 day ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (4 weeks ago)
-- [twelvelabs/turing-pi](https://github.com/twelvelabs/turing-pi) (4 weeks ago)
+- [twelvelabs/turing-pi](https://github.com/twelvelabs/turing-pi) (1 month ago)
 - [twelvelabs/.github](https://github.com/twelvelabs/.github) (1 month ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.0.0](https://github.com/twelvelabs/stylist/releases/tag/v0.0.0), 1 day ago) - Manage all your code quality tools with a single executable
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.0.0](https://github.com/twelvelabs/stylist/releases/tag/v0.0.0), 2 days ago) - Manage all your code quality tools with a single executable
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v2.2.0](https://github.com/hashicorp/go-getter/releases/tag/v2.2.0), 1 week ago) - Package for downloading things from a string URL using a variety of protocols.
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ([v0.4.11](https://github.com/goodwithtech/dockle/releases/tag/v0.4.11), 1 week ago) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
-- [cli/cli](https://github.com/cli/cli) ([v2.23.0](https://github.com/cli/cli/releases/tag/v2.23.0), 1 week ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.23.0](https://github.com/cli/cli/releases/tag/v2.23.0), 2 weeks ago) - GitHub’s official command line tool
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.5.1](https://github.com/twelvelabs/termite/releases/tag/v0.5.1), 1 month ago) - Termite is a collection of utilities for building CLI tools in Go.
 
 #### ⭐ Recent stars

@@ -5,14 +5,14 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 day ago)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (4 weeks ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (1 month ago)
 - [twelvelabs/turing-pi](https://github.com/twelvelabs/turing-pi) (1 month ago)
 - [twelvelabs/.github](https://github.com/twelvelabs/.github) (1 month ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.0.0](https://github.com/twelvelabs/stylist/releases/tag/v0.0.0), 2 days ago) - Manage all your code quality tools with a single executable
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.0.0](https://github.com/twelvelabs/stylist/releases/tag/v0.0.0), 3 days ago) - Manage all your code quality tools with a single executable
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v2.2.0](https://github.com/hashicorp/go-getter/releases/tag/v2.2.0), 1 week ago) - Package for downloading things from a string URL using a variety of protocols.
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ([v0.4.11](https://github.com/goodwithtech/dockle/releases/tag/v0.4.11), 1 week ago) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [cli/cli](https://github.com/cli/cli) ([v2.23.0](https://github.com/cli/cli/releases/tag/v2.23.0), 2 weeks ago) - GitHub’s official command line tool
@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
 - [k1LoW/octocov](https://github.com/k1LoW/octocov) - octocov is a toolkit for collecting code metrics (code coverage, code to test ratio and test execution time). (2 weeks ago)
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (2 weeks ago)
 - [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (1 month ago)

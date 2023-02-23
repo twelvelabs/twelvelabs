@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 day ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (today)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (1 month ago)
 - [twelvelabs/turing-pi](https://github.com/twelvelabs/turing-pi) (1 month ago)
 - [twelvelabs/.github](https://github.com/twelvelabs/.github) (1 month ago)

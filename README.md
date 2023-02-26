@@ -12,8 +12,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.0](https://github.com/twelvelabs/stylist/releases/tag/v0.1.0), today) - Manage all your code quality tools with a single executable
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.6.0](https://github.com/twelvelabs/termite/releases/tag/v0.6.0), today) - Termite is a collection of utilities for building CLI tools in Go
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.0.0](https://github.com/twelvelabs/stylist/releases/tag/v0.0.0), 6 days ago) - Manage all your code quality tools with a single executable
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v2.2.0](https://github.com/hashicorp/go-getter/releases/tag/v2.2.0), 1 week ago) - Package for downloading things from a string URL using a variety of protocols.
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ([v0.4.11](https://github.com/goodwithtech/dockle/releases/tag/v0.4.11), 2 weeks ago) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [cli/cli](https://github.com/cli/cli) ([v2.23.0](https://github.com/cli/cli/releases/tag/v2.23.0), 2 weeks ago) - GitHub’s official command line tool

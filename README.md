@@ -5,7 +5,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (1 day ago)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (2 days ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (1 day ago)
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) - Base devcontainer image (3 days ago)
 - [twelvelabs/gh-setup](https://github.com/twelvelabs/gh-setup) - A GitHub CLI extension to setup new repositories (1 week ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 week ago)

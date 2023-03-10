@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.7.0](https://github.com/twelvelabs/termite/releases/tag/v0.7.0), 1 day ago) - Termite is a collection of utilities for building CLI tools in Go
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.8.0](https://github.com/twelvelabs/termite/releases/tag/v0.8.0), today) - Termite is a collection of utilities for building CLI tools in Go
 - [cli/cli](https://github.com/cli/cli) ([v2.24.3](https://github.com/cli/cli/releases/tag/v2.24.3), 1 day ago) - GitHub’s official command line tool
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) ([v0.3.1](https://github.com/gostamp/docker-ubuntu/releases/tag/v0.3.1), 5 days ago) - Base devcontainer image
 - [twelvelabs/gh-setup](https://github.com/twelvelabs/gh-setup) ([v1.0.2](https://github.com/twelvelabs/gh-setup/releases/tag/v1.0.2), 1 week ago) - A GitHub CLI extension to setup new repositories

@@ -4,17 +4,17 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (today)
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (today)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (2 days ago)
-- [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (2 days ago)
-- [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) - Base devcontainer image (4 days ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 day ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 day ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) (3 days ago)
+- [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (3 days ago)
+- [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) - Base devcontainer image (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.7.0](https://github.com/twelvelabs/termite/releases/tag/v0.7.0), today) - Termite is a collection of utilities for building CLI tools in Go
-- [cli/cli](https://github.com/cli/cli) ([v2.24.3](https://github.com/cli/cli/releases/tag/v2.24.3), today) - GitHub’s official command line tool
-- [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) ([v0.3.1](https://github.com/gostamp/docker-ubuntu/releases/tag/v0.3.1), 4 days ago) - Base devcontainer image
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.7.0](https://github.com/twelvelabs/termite/releases/tag/v0.7.0), 1 day ago) - Termite is a collection of utilities for building CLI tools in Go
+- [cli/cli](https://github.com/cli/cli) ([v2.24.3](https://github.com/cli/cli/releases/tag/v2.24.3), 1 day ago) - GitHub’s official command line tool
+- [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) ([v0.3.1](https://github.com/gostamp/docker-ubuntu/releases/tag/v0.3.1), 5 days ago) - Base devcontainer image
 - [twelvelabs/gh-setup](https://github.com/twelvelabs/gh-setup) ([v1.0.2](https://github.com/twelvelabs/gh-setup/releases/tag/v1.0.2), 1 week ago) - A GitHub CLI extension to setup new repositories
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.0](https://github.com/twelvelabs/stylist/releases/tag/v0.1.0), 1 week ago) - Manage all your code quality tools with a single executable
 
@@ -24,7 +24,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 - [k1LoW/octocov](https://github.com/k1LoW/octocov) - octocov is a toolkit for collecting code metrics (code coverage, code to test ratio and test execution time). (1 month ago)
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (1 month ago)
-- [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (1 month ago)
+- [italolelis/outboxer](https://github.com/italolelis/outboxer) - A library that implements the outboxer pattern in go (2 months ago)
 
 #### 📚 Recent books I've read
 

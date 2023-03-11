@@ -4,15 +4,15 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 day ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 day ago)
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 days ago)
+- [gostamp/.github](https://github.com/gostamp/.github) (1 day ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (4 days ago)
 - [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (4 days ago)
-- [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) - Base devcontainer image (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.9.0](https://github.com/twelvelabs/termite/releases/tag/v0.9.0), today) - Termite is a collection of utilities for building CLI tools in Go
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.9.1](https://github.com/twelvelabs/termite/releases/tag/v0.9.1), today) - Termite is a collection of utilities for building CLI tools in Go
 - [cli/cli](https://github.com/cli/cli) ([v2.24.3](https://github.com/cli/cli/releases/tag/v2.24.3), 2 days ago) - GitHub’s official command line tool
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) ([v0.3.1](https://github.com/gostamp/docker-ubuntu/releases/tag/v0.3.1), 6 days ago) - Base devcontainer image
 - [twelvelabs/gh-setup](https://github.com/twelvelabs/gh-setup) ([v1.0.2](https://github.com/twelvelabs/gh-setup/releases/tag/v1.0.2), 1 week ago) - A GitHub CLI extension to setup new repositories

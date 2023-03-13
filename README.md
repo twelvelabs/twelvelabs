@@ -4,19 +4,19 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
+- [koozz/gh-semver](https://github.com/koozz/gh-semver) - A GitHub CLI extension to determine the next semantic version. (today)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 day ago)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 days ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 days ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 days ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (3 days ago)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [koozz/gh-semver](https://github.com/koozz/gh-semver) ([v1.0.3](https://github.com/koozz/gh-semver/releases/tag/v1.0.3), today) - A GitHub CLI extension to determine the next semantic version.
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.9.1](https://github.com/twelvelabs/termite/releases/tag/v0.9.1), 2 days ago) - Termite is a collection of utilities for building CLI tools in Go
 - [cli/cli](https://github.com/cli/cli) ([v2.24.3](https://github.com/cli/cli/releases/tag/v2.24.3), 4 days ago) - GitHub’s official command line tool
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) ([v0.3.1](https://github.com/gostamp/docker-ubuntu/releases/tag/v0.3.1), 1 week ago) - Base devcontainer image
 - [twelvelabs/gh-setup](https://github.com/twelvelabs/gh-setup) ([v1.0.2](https://github.com/twelvelabs/gh-setup/releases/tag/v1.0.2), 2 weeks ago) - A GitHub CLI extension to setup new repositories
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.0](https://github.com/twelvelabs/stylist/releases/tag/v0.1.0), 2 weeks ago) - Manage all your code quality tools with a single executable
 
 #### ⭐ Recent stars
 

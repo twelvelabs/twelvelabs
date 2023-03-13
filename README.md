@@ -5,10 +5,10 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [koozz/gh-semver](https://github.com/koozz/gh-semver) - A GitHub CLI extension to determine the next semantic version. (today)
+- [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (today)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 day ago)
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 days ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 days ago)
-- [gostamp/.github](https://github.com/gostamp/.github) (3 days ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 

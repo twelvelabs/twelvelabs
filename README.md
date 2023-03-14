@@ -12,11 +12,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v1.7.1](https://github.com/hashicorp/go-getter/releases/tag/v1.7.1), today) - Package for downloading things from a string URL using a variety of protocols.
 - [koozz/gh-semver](https://github.com/koozz/gh-semver) ([v1.0.3](https://github.com/koozz/gh-semver/releases/tag/v1.0.3), 1 day ago) - A GitHub CLI extension to determine the next semantic version.
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.9.1](https://github.com/twelvelabs/termite/releases/tag/v0.9.1), 3 days ago) - Termite is a collection of utilities for building CLI tools in Go
 - [cli/cli](https://github.com/cli/cli) ([v2.24.3](https://github.com/cli/cli/releases/tag/v2.24.3), 5 days ago) - GitHub’s official command line tool
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) ([v0.3.1](https://github.com/gostamp/docker-ubuntu/releases/tag/v0.3.1), 1 week ago) - Base devcontainer image
-- [twelvelabs/gh-setup](https://github.com/twelvelabs/gh-setup) ([v1.0.2](https://github.com/twelvelabs/gh-setup/releases/tag/v1.0.2), 2 weeks ago) - A GitHub CLI extension to setup new repositories
 
 #### ⭐ Recent stars
 

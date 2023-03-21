@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.25.0](https://github.com/cli/cli/releases/tag/v2.25.0), 1 day ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.25.1](https://github.com/cli/cli/releases/tag/v2.25.1), today) - GitHub’s official command line tool
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.1.0](https://github.com/twelvelabs/stamp/releases/tag/v0.1.0), 4 days ago) - A project scaffolding tool written in Go
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.9.2](https://github.com/twelvelabs/termite/releases/tag/v0.9.2), 5 days ago) - Termite is a collection of utilities for building CLI tools in Go
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v2.2.1](https://github.com/hashicorp/go-getter/releases/tag/v2.2.1), 5 days ago) - Package for downloading things from a string URL using a variety of protocols.

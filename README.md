@@ -13,15 +13,15 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 🔭 Latest releases I've contributed to
 
 - [cli/cli](https://github.com/cli/cli) ([v2.25.1](https://github.com/cli/cli/releases/tag/v2.25.1), 1 week ago) - GitHub’s official command line tool
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.1.0](https://github.com/twelvelabs/stamp/releases/tag/v0.1.0), 1 week ago) - A project scaffolding tool written in Go
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.1.0](https://github.com/twelvelabs/stamp/releases/tag/v0.1.0), 2 weeks ago) - A project scaffolding tool written in Go
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.9.2](https://github.com/twelvelabs/termite/releases/tag/v0.9.2), 2 weeks ago) - Termite is a collection of utilities for building CLI tools in Go
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v2.2.1](https://github.com/hashicorp/go-getter/releases/tag/v2.2.1), 2 weeks ago) - Package for downloading things from a string URL using a variety of protocols.
 - [koozz/gh-semver](https://github.com/koozz/gh-semver) ([v1.0.3](https://github.com/koozz/gh-semver/releases/tag/v1.0.3), 2 weeks ago) - A GitHub CLI extension to determine the next semantic version.
 
 #### ⭐ Recent stars
 
-- [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go. (1 day ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 day ago)
+- [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go. (2 days ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 days ago)
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (1 week ago)
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (4 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 month ago)
@@ -32,7 +32,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (2 months ago)
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (4 months ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (6 months ago)
-- [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (6 months ago)
+- [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (7 months ago)
 
 #### 📜 My recent blog posts
 

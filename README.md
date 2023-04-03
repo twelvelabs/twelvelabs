@@ -4,11 +4,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
+- [gostamp/docker-golang](https://github.com/gostamp/docker-golang) - Base devcontainer image for Go projects (today)
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) - Base devcontainer image (1 day ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 week ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 week ago)
 - [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (1 week ago)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 

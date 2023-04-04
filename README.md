@@ -12,10 +12,10 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [cli/cli](https://github.com/cli/cli) ([v2.26.0-pre0](https://github.com/cli/cli/releases/tag/v2.26.0-pre0), today) - GitHub’s official command line tool
 - [gostamp/docker-golang](https://github.com/gostamp/docker-golang) ([v0.1.0](https://github.com/gostamp/docker-golang/releases/tag/v0.1.0), 1 day ago) - Base devcontainer image for Go projects
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) ([v0.4.0](https://github.com/gostamp/docker-ubuntu/releases/tag/v0.4.0), 2 days ago) - Base devcontainer image
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.1](https://github.com/twelvelabs/stylist/releases/tag/v0.1.1), 3 days ago) - Manage all your code quality tools with a single executable
-- [cli/cli](https://github.com/cli/cli) ([v2.25.1](https://github.com/cli/cli/releases/tag/v2.25.1), 2 weeks ago) - GitHub’s official command line tool
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.1.0](https://github.com/twelvelabs/stamp/releases/tag/v0.1.0), 2 weeks ago) - A project scaffolding tool written in Go
 
 #### ⭐ Recent stars

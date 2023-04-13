@@ -4,15 +4,15 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/dv-api](https://github.com/twelvelabs/dv-api) (3 days ago)
-- [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (3 days ago)
+- [twelvelabs/dv-api](https://github.com/twelvelabs/dv-api) (4 days ago)
+- [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (4 days ago)
 - [gostamp/docker-golang](https://github.com/gostamp/docker-golang) - Base devcontainer image for Go projects (1 week ago)
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) - Base devcontainer image (1 week ago)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 weeks ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.27.0](https://github.com/cli/cli/releases/tag/v2.27.0), 5 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.27.0](https://github.com/cli/cli/releases/tag/v2.27.0), 6 days ago) - GitHub’s official command line tool
 - [gostamp/docker-golang](https://github.com/gostamp/docker-golang) ([v0.1.1](https://github.com/gostamp/docker-golang/releases/tag/v0.1.1), 1 week ago) - Base devcontainer image for Go projects
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) ([v0.4.0](https://github.com/gostamp/docker-ubuntu/releases/tag/v0.4.0), 1 week ago) - Base devcontainer image
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.1](https://github.com/twelvelabs/stylist/releases/tag/v0.1.1), 1 week ago) - Manage all your code quality tools with a single executable
@@ -22,7 +22,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go. (2 weeks ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 weeks ago)
-- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (2 weeks ago)
+- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (3 weeks ago)
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 month ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 month ago)
 

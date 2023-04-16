@@ -4,17 +4,17 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
+- [gostamp/docker-golang](https://github.com/gostamp/docker-golang) - Base devcontainer image for Go projects (today)
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) - Base devcontainer image (today)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (today)
 - [twelvelabs/dv-api](https://github.com/twelvelabs/dv-api) (1 week ago)
 - [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (1 week ago)
-- [gostamp/docker-golang](https://github.com/gostamp/docker-golang) - Base devcontainer image for Go projects (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [gostamp/docker-golang](https://github.com/gostamp/docker-golang) ([v0.2.0](https://github.com/gostamp/docker-golang/releases/tag/v0.2.0), today) - Base devcontainer image for Go projects
 - [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) ([v0.5.0](https://github.com/gostamp/docker-ubuntu/releases/tag/v0.5.0), today) - Base devcontainer image
 - [cli/cli](https://github.com/cli/cli) ([v2.27.0](https://github.com/cli/cli/releases/tag/v2.27.0), 1 week ago) - GitHub’s official command line tool
-- [gostamp/docker-golang](https://github.com/gostamp/docker-golang) ([v0.1.1](https://github.com/gostamp/docker-golang/releases/tag/v0.1.1), 1 week ago) - Base devcontainer image for Go projects
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.1](https://github.com/twelvelabs/stylist/releases/tag/v0.1.1), 2 weeks ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.1.0](https://github.com/twelvelabs/stamp/releases/tag/v0.1.0), 1 month ago) - A project scaffolding tool written in Go
 

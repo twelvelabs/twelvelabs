@@ -5,10 +5,10 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (today)
+- [twelvelabs/homebrew-tools](https://github.com/twelvelabs/homebrew-tools) - Homebrew tap for personal projects (today)
 - [gostamp/generator-app](https://github.com/gostamp/generator-app) - Opinionated project templates for use Stamp (1 day ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 day ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (3 days ago)
-- [gostamp/docker-ubuntu](https://github.com/gostamp/docker-ubuntu) - Base devcontainer image (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 

@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (1 day ago)
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (today)
 - [twelvelabs/homebrew-tap](https://github.com/twelvelabs/homebrew-tap) - Homebrew tap for personal projects (5 days ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (5 days ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (5 days ago)

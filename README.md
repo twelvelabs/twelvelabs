@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.28.0-pre.1](https://github.com/cli/cli/releases/tag/v2.28.0-pre.1), today) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.28.0](https://github.com/cli/cli/releases/tag/v2.28.0), today) - GitHub’s official command line tool
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.1.0](https://github.com/twelvelabs/envctl/releases/tag/v0.1.0), 4 days ago) - Manage project environment variables
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.3](https://github.com/twelvelabs/stylist/releases/tag/v0.1.3), 5 days ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.10.0](https://github.com/twelvelabs/termite/releases/tag/v0.10.0), 1 week ago) - Termite is a collection of utilities for building CLI tools in Go

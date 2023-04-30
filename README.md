@@ -4,17 +4,17 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 day ago)
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (4 days ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 days ago)
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (5 days ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 week ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 week ago)
 - [twelvelabs/homebrew-tap](https://github.com/twelvelabs/homebrew-tap) - Homebrew tap for personal projects (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.2.0](https://github.com/twelvelabs/stamp/releases/tag/v0.2.0), 3 days ago) - A project scaffolding tool written in Go
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.2.0](https://github.com/twelvelabs/envctl/releases/tag/v0.2.0), 4 days ago) - Manage project environment variables
-- [cli/cli](https://github.com/cli/cli) ([v2.28.0](https://github.com/cli/cli/releases/tag/v2.28.0), 4 days ago) - GitHub’s official command line tool
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.2.0](https://github.com/twelvelabs/stamp/releases/tag/v0.2.0), 4 days ago) - A project scaffolding tool written in Go
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.2.0](https://github.com/twelvelabs/envctl/releases/tag/v0.2.0), 5 days ago) - Manage project environment variables
+- [cli/cli](https://github.com/cli/cli) ([v2.28.0](https://github.com/cli/cli/releases/tag/v2.28.0), 5 days ago) - GitHub’s official command line tool
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.3](https://github.com/twelvelabs/stylist/releases/tag/v0.1.3), 1 week ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.10.0](https://github.com/twelvelabs/termite/releases/tag/v0.10.0), 1 week ago) - Termite is a collection of utilities for building CLI tools in Go
 
@@ -32,7 +32,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (3 months ago)
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (5 months ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (7 months ago)
-- [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (7 months ago)
+- [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (8 months ago)
 
 #### 📜 My recent blog posts
 

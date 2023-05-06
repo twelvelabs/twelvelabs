@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [caarlos0/go-version](https://github.com/caarlos0/go-version) - Version library extracted from sigs.k8s.io/release-utils (today)
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects. (3 days ago)
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (2 weeks ago)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (2 weeks ago)
 - [kyleconroy/sqlc-playground](https://github.com/kyleconroy/sqlc-playground) (3 weeks ago)
-- [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go. (1 month ago)
 
 #### 📚 Recent books I've read
 

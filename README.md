@@ -4,8 +4,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (today)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (3 days ago)
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (3 days ago)
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (1 week ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 weeks ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 weeks ago)
@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules. (today)
 - [caarlos0/go-version](https://github.com/caarlos0/go-version) - Version library extracted from sigs.k8s.io/release-utils (today)
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects. (3 days ago)
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (2 weeks ago)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (2 weeks ago)
-- [kyleconroy/sqlc-playground](https://github.com/kyleconroy/sqlc-playground) (3 weeks ago)
 
 #### 📚 Recent books I've read
 

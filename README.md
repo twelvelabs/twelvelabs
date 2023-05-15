@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (5 days ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (6 days ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (1 week ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 week ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 week ago)
@@ -12,9 +12,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.29.0](https://github.com/cli/cli/releases/tag/v2.29.0), 4 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.29.0](https://github.com/cli/cli/releases/tag/v2.29.0), 5 days ago) - GitHub’s official command line tool
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.11.0](https://github.com/twelvelabs/termite/releases/tag/v0.11.0), 1 week ago) - Termite is a collection of utilities for building CLI tools in Go
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.3.0](https://github.com/twelvelabs/stamp/releases/tag/v0.3.0), 1 week ago) - A project scaffolding tool written in Go
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.3.0](https://github.com/twelvelabs/stamp/releases/tag/v0.3.0), 2 weeks ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.2.0](https://github.com/twelvelabs/envctl/releases/tag/v0.2.0), 2 weeks ago) - Manage project environment variables
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.3](https://github.com/twelvelabs/stylist/releases/tag/v0.1.3), 3 weeks ago) - Manage all your code quality tools with a single executable
 

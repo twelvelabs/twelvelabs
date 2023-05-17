@@ -7,12 +7,12 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 week ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (1 week ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 week ago)
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 week ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 weeks ago)
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.29.0](https://github.com/cli/cli/releases/tag/v2.29.0), 6 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.29.0](https://github.com/cli/cli/releases/tag/v2.29.0), 1 week ago) - GitHub’s official command line tool
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.11.0](https://github.com/twelvelabs/termite/releases/tag/v0.11.0), 1 week ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.3.0](https://github.com/twelvelabs/stamp/releases/tag/v0.3.0), 2 weeks ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.2.0](https://github.com/twelvelabs/envctl/releases/tag/v0.2.0), 3 weeks ago) - Manage project environment variables
@@ -22,7 +22,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules. (1 week ago)
 - [caarlos0/go-version](https://github.com/caarlos0/go-version) - Version library extracted from sigs.k8s.io/release-utils (1 week ago)
-- [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects. (1 week ago)
+- [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects. (2 weeks ago)
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (4 weeks ago)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (4 weeks ago)
 

@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 day ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 days ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (3 weeks ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (3 weeks ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (3 weeks ago)
@@ -32,7 +32,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (4 months ago)
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (6 months ago)
 - [Mickey7 (Mickey7 #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (8 months ago)
-- [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (8 months ago)
+- [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (9 months ago)
 
 #### 📜 My recent blog posts
 

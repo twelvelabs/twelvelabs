@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (3 days ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (4 days ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (3 weeks ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (3 weeks ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (4 weeks ago)
@@ -12,8 +12,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.30.0](https://github.com/cli/cli/releases/tag/v2.30.0), 1 day ago) - GitHub’s official command line tool
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.11.0](https://github.com/twelvelabs/termite/releases/tag/v0.11.0), 3 weeks ago) - Termite is a collection of utilities for building CLI tools in Go
+- [cli/cli](https://github.com/cli/cli) ([v2.30.0](https://github.com/cli/cli/releases/tag/v2.30.0), 2 days ago) - GitHub’s official command line tool
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.11.0](https://github.com/twelvelabs/termite/releases/tag/v0.11.0), 4 weeks ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.3.0](https://github.com/twelvelabs/stamp/releases/tag/v0.3.0), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.2.0](https://github.com/twelvelabs/envctl/releases/tag/v0.2.0), 1 month ago) - Manage project environment variables
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.1.3](https://github.com/twelvelabs/stylist/releases/tag/v0.1.3), 1 month ago) - Manage all your code quality tools with a single executable
@@ -36,7 +36,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📜 My recent blog posts
 
-- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (4 months ago)
+- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (5 months ago)
 - [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (6 months ago)
 
 #### 📫 How to reach me

@@ -31,7 +31,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [The Genesis of Misery](https://www.goodreads.com/review/show/4961676783?utm_medium=api&amp;utm_source=rss) (3 months ago)
 - [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (4 months ago)
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (6 months ago)
-- [Mickey7 (Mickey7 #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (9 months ago)
+- [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (9 months ago)
 - [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (9 months ago)
 
 #### 📜 My recent blog posts

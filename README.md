@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (6 days ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 week ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 week ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (1 month ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 month ago)
@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 6 days ago) - Manage all your code quality tools with a single executable
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 1 week ago) - Manage all your code quality tools with a single executable
 - [cli/cli](https://github.com/cli/cli) ([v2.30.0](https://github.com/cli/cli/releases/tag/v2.30.0), 1 week ago) - GitHub’s official command line tool
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.11.0](https://github.com/twelvelabs/termite/releases/tag/v0.11.0), 1 month ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.3.0](https://github.com/twelvelabs/stamp/releases/tag/v0.3.0), 1 month ago) - A project scaffolding tool written in Go

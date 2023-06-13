@@ -12,11 +12,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-survey/survey](https://github.com/go-survey/survey) ([v2.3.7](https://github.com/go-survey/survey/releases/tag/v2.3.7), today) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.0](https://github.com/twelvelabs/termite/releases/tag/v0.13.0), 3 days ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 1 week ago) - Manage all your code quality tools with a single executable
 - [cli/cli](https://github.com/cli/cli) ([v2.30.0](https://github.com/cli/cli/releases/tag/v2.30.0), 2 weeks ago) - GitHub’s official command line tool
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.3.0](https://github.com/twelvelabs/stamp/releases/tag/v0.3.0), 1 month ago) - A project scaffolding tool written in Go
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.2.0](https://github.com/twelvelabs/envctl/releases/tag/v0.2.0), 1 month ago) - Manage project environment variables
 
 #### ⭐ Recent stars
 

@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-survey/survey](https://github.com/go-survey/survey) ([v2.3.7](https://github.com/go-survey/survey/releases/tag/v2.3.7), 4 days ago) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
+- [go-survey/survey](https://github.com/go-survey/survey) ([v2.3.7](https://github.com/go-survey/survey/releases/tag/v2.3.7), 5 days ago) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.0](https://github.com/twelvelabs/termite/releases/tag/v0.13.0), 1 week ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 2 weeks ago) - Manage all your code quality tools with a single executable
 - [cli/cli](https://github.com/cli/cli) ([v2.30.0](https://github.com/cli/cli/releases/tag/v2.30.0), 2 weeks ago) - GitHub’s official command line tool
@@ -37,7 +37,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 📜 My recent blog posts
 
 - [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (5 months ago)
-- [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (6 months ago)
+- [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (7 months ago)
 
 #### 📫 How to reach me
 

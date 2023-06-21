@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 day ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 days ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 week ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 weeks ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (1 month ago)
@@ -12,10 +12,10 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 1 day ago) - Termite is a collection of utilities for building CLI tools in Go
+- [cli/cli](https://github.com/cli/cli) ([v2.31.0](https://github.com/cli/cli/releases/tag/v2.31.0), today) - GitHub’s official command line tool
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 2 days ago) - Termite is a collection of utilities for building CLI tools in Go
 - [go-survey/survey](https://github.com/go-survey/survey) ([v2.3.7](https://github.com/go-survey/survey/releases/tag/v2.3.7), 1 week ago) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 2 weeks ago) - Manage all your code quality tools with a single executable
-- [cli/cli](https://github.com/cli/cli) ([v2.30.0](https://github.com/cli/cli/releases/tag/v2.30.0), 3 weeks ago) - GitHub’s official command line tool
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.3.0](https://github.com/twelvelabs/stamp/releases/tag/v0.3.0), 1 month ago) - A project scaffolding tool written in Go
 
 #### ⭐ Recent stars
@@ -29,7 +29,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 📚 Recent books I've read
 
 - [The Genesis of Misery](https://www.goodreads.com/review/show/4961676783?utm_medium=api&amp;utm_source=rss) (4 months ago)
-- [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (4 months ago)
+- [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (5 months ago)
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (7 months ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (9 months ago)
 - [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (9 months ago)

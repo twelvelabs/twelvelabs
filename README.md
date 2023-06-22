@@ -4,18 +4,18 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 days ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (3 days ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 week ago)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 weeks ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 weeks ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (1 month ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.31.0](https://github.com/cli/cli/releases/tag/v2.31.0), today) - GitHub’s official command line tool
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 2 days ago) - Termite is a collection of utilities for building CLI tools in Go
+- [cli/cli](https://github.com/cli/cli) ([v2.31.0](https://github.com/cli/cli/releases/tag/v2.31.0), 1 day ago) - GitHub’s official command line tool
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 3 days ago) - Termite is a collection of utilities for building CLI tools in Go
 - [go-survey/survey](https://github.com/go-survey/survey) ([v2.3.7](https://github.com/go-survey/survey/releases/tag/v2.3.7), 1 week ago) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 2 weeks ago) - Manage all your code quality tools with a single executable
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 3 weeks ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.3.0](https://github.com/twelvelabs/stamp/releases/tag/v0.3.0), 1 month ago) - A project scaffolding tool written in Go
 
 #### ⭐ Recent stars

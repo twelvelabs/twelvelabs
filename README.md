@@ -4,17 +4,17 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (today)
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (6 days ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 day ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 week ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 weeks ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 weeks ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.0](https://github.com/twelvelabs/stamp/releases/tag/v0.4.0), today) - A project scaffolding tool written in Go
-- [cli/cli](https://github.com/cli/cli) ([v2.31.0](https://github.com/cli/cli/releases/tag/v2.31.0), 4 days ago) - GitHub’s official command line tool
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 6 days ago) - Termite is a collection of utilities for building CLI tools in Go
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.0](https://github.com/twelvelabs/stamp/releases/tag/v0.4.0), 1 day ago) - A project scaffolding tool written in Go
+- [cli/cli](https://github.com/cli/cli) ([v2.31.0](https://github.com/cli/cli/releases/tag/v2.31.0), 5 days ago) - GitHub’s official command line tool
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 1 week ago) - Termite is a collection of utilities for building CLI tools in Go
 - [go-survey/survey](https://github.com/go-survey/survey) ([v2.3.7](https://github.com/go-survey/survey/releases/tag/v2.3.7), 1 week ago) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 3 weeks ago) - Manage all your code quality tools with a single executable
 

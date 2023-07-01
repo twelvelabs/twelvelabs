@@ -4,19 +4,19 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (5 days ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (6 days ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 week ago)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 weeks ago)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (4 weeks ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (3 weeks ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 month ago)
 - [gostamp/.github](https://github.com/gostamp/.github) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.0](https://github.com/twelvelabs/stamp/releases/tag/v0.4.0), 5 days ago) - A project scaffolding tool written in Go
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.0](https://github.com/twelvelabs/stamp/releases/tag/v0.4.0), 6 days ago) - A project scaffolding tool written in Go
 - [cli/cli](https://github.com/cli/cli) ([v2.31.0](https://github.com/cli/cli/releases/tag/v2.31.0), 1 week ago) - GitHub’s official command line tool
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 1 week ago) - Termite is a collection of utilities for building CLI tools in Go
 - [go-survey/survey](https://github.com/go-survey/survey) ([v2.3.7](https://github.com/go-survey/survey/releases/tag/v2.3.7), 2 weeks ago) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 4 weeks ago) - Manage all your code quality tools with a single executable
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 1 month ago) - Manage all your code quality tools with a single executable
 
 #### ⭐ Recent stars
 
@@ -36,7 +36,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📜 My recent blog posts
 
-- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (5 months ago)
+- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (6 months ago)
 - [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (7 months ago)
 
 #### 📫 How to reach me

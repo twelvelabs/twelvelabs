@@ -13,15 +13,15 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 🔭 Latest releases I've contributed to
 
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.0](https://github.com/twelvelabs/stamp/releases/tag/v0.4.0), 1 week ago) - A project scaffolding tool written in Go
-- [cli/cli](https://github.com/cli/cli) ([v2.31.0](https://github.com/cli/cli/releases/tag/v2.31.0), 1 week ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.31.0](https://github.com/cli/cli/releases/tag/v2.31.0), 2 weeks ago) - GitHub’s official command line tool
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 2 weeks ago) - Termite is a collection of utilities for building CLI tools in Go
 - [go-survey/survey](https://github.com/go-survey/survey) ([v2.3.7](https://github.com/go-survey/survey/releases/tag/v2.3.7), 3 weeks ago) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.3.1](https://github.com/twelvelabs/stylist/releases/tag/v0.3.1), 1 month ago) - Manage all your code quality tools with a single executable
 
 #### ⭐ Recent stars
 
-- [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules. (1 month ago)
-- [caarlos0/go-version](https://github.com/caarlos0/go-version) - Version library extracted from sigs.k8s.io/release-utils (1 month ago)
+- [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules. (2 months ago)
+- [caarlos0/go-version](https://github.com/caarlos0/go-version) - Version library extracted from sigs.k8s.io/release-utils (2 months ago)
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects. (2 months ago)
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (2 months ago)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool. (2 months ago)

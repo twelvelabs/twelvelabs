@@ -8,7 +8,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 weeks ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (3 weeks ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 month ago)
-- [gostamp/.github](https://github.com/gostamp/.github) (1 month ago)
+- [gostamp/.github](https://github.com/gostamp/.github) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

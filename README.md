@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.32.0](https://github.com/cli/cli/releases/tag/v2.32.0), 6 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.32.0](https://github.com/cli/cli/releases/tag/v2.32.0), 1 week ago) - GitHub’s official command line tool
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ([v0.4.13](https://github.com/goodwithtech/dockle/releases/tag/v0.4.13), 1 week ago) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.0](https://github.com/twelvelabs/stamp/releases/tag/v0.4.0), 3 weeks ago) - A project scaffolding tool written in Go
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 4 weeks ago) - Termite is a collection of utilities for building CLI tools in Go
@@ -37,7 +37,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 📜 My recent blog posts
 
 - [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (6 months ago)
-- [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (7 months ago)
+- [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (8 months ago)
 
 #### 📫 How to reach me
 

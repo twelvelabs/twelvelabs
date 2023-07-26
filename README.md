@@ -4,19 +4,19 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
+- [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (1 day ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 month ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 month ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 month ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 month ago)
-- [gostamp/.github](https://github.com/gostamp/.github) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.32.1](https://github.com/cli/cli/releases/tag/v2.32.1), 1 day ago) - GitHub’s official command line tool
+- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.7](https://github.com/abice/go-enum/releases/tag/v0.5.7), 1 day ago) - An enum generator for go
+- [cli/cli](https://github.com/cli/cli) ([v2.32.1](https://github.com/cli/cli/releases/tag/v2.32.1), 2 days ago) - GitHub’s official command line tool
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ([v0.4.13](https://github.com/goodwithtech/dockle/releases/tag/v0.4.13), 2 weeks ago) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.0](https://github.com/twelvelabs/stamp/releases/tag/v0.4.0), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.1](https://github.com/twelvelabs/termite/releases/tag/v0.13.1), 1 month ago) - Termite is a collection of utilities for building CLI tools in Go
-- [go-survey/survey](https://github.com/go-survey/survey) ([v2.3.7](https://github.com/go-survey/survey/releases/tag/v2.3.7), 1 month ago) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 
 #### ⭐ Recent stars
 

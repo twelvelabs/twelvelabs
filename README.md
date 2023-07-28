@@ -12,11 +12,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.2](https://github.com/twelvelabs/stamp/releases/tag/v0.4.2), today) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), today) - Generate markdown documents from JSON schema files.
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 1 day ago) - Install project dependencies with a single command.
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v1.7.2](https://github.com/hashicorp/go-getter/releases/tag/v1.7.2), 2 days ago) - Package for downloading things from a string URL using a variety of protocols.
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.7](https://github.com/abice/go-enum/releases/tag/v0.5.7), 3 days ago) - An enum generator for go
-- [cli/cli](https://github.com/cli/cli) ([v2.32.1](https://github.com/cli/cli/releases/tag/v2.32.1), 4 days ago) - GitHub’s official command line tool
 
 #### ⭐ Recent stars
 

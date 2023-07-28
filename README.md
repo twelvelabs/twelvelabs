@@ -4,15 +4,15 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 day ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (today)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (1 day ago)
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 day ago)
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 day ago)
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (3 days ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.0), today) - Generate markdown documents from JSON schema files.
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), today) - Generate markdown documents from JSON schema files.
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 1 day ago) - Install project dependencies with a single command.
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v1.7.2](https://github.com/hashicorp/go-getter/releases/tag/v1.7.2), 2 days ago) - Package for downloading things from a string URL using a variety of protocols.
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.7](https://github.com/abice/go-enum/releases/tag/v0.5.7), 3 days ago) - An enum generator for go

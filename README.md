@@ -4,19 +4,19 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (today)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (today)
-- [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (today)
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 day ago)
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (1 day ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 day ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 day ago)
+- [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (1 day ago)
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (2 days ago)
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.2](https://github.com/twelvelabs/stamp/releases/tag/v0.4.2), today) - A project scaffolding tool written in Go
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), today) - Generate markdown documents from JSON schema files.
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 1 day ago) - Install project dependencies with a single command.
-- [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v1.7.2](https://github.com/hashicorp/go-getter/releases/tag/v1.7.2), 2 days ago) - Package for downloading things from a string URL using a variety of protocols.
-- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.7](https://github.com/abice/go-enum/releases/tag/v0.5.7), 3 days ago) - An enum generator for go
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.2](https://github.com/twelvelabs/stamp/releases/tag/v0.4.2), 1 day ago) - A project scaffolding tool written in Go
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 1 day ago) - Generate markdown documents from JSON schema files.
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 2 days ago) - Install project dependencies with a single command.
+- [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v1.7.2](https://github.com/hashicorp/go-getter/releases/tag/v1.7.2), 3 days ago) - Package for downloading things from a string URL using a variety of protocols.
+- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.7](https://github.com/abice/go-enum/releases/tag/v0.5.7), 4 days ago) - An enum generator for go
 
 #### ⭐ Recent stars
 
@@ -32,7 +32,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (6 months ago)
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (8 months ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (10 months ago)
-- [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (10 months ago)
+- [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (11 months ago)
 
 #### 📜 My recent blog posts
 

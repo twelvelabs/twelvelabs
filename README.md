@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (today)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (2 days ago)
 - [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules. (2 months ago)
 - [caarlos0/go-version](https://github.com/caarlos0/go-version) - Version library extracted from sigs.k8s.io/release-utils (2 months ago)
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects. (2 months ago)
-- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) - A full-featured license tool to check and fix license headers and resolve dependencies&#39; licenses. (3 months ago)
 
 #### 📚 Recent books I've read
 

@@ -20,8 +20,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (1 day ago)
-- [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (6 days ago)
+- [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (2 days ago)
+- [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (1 week ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (1 week ago)
 - [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules. (3 months ago)
 - [caarlos0/go-version](https://github.com/caarlos0/go-version) - Version library extracted from sigs.k8s.io/release-utils (3 months ago)

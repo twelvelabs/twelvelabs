@@ -21,9 +21,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### ⭐ Recent stars
 
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (1 week ago)
-- [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (1 week ago)
+- [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (2 weeks ago)
 - [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (2 weeks ago)
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (2 weeks ago)
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (3 weeks ago)
 - [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules. (3 months ago)
 
 #### 📚 Recent books I've read

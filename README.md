@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 1 week ago) - A project scaffolding tool written in Go
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 2 weeks ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 3 weeks ago) - Generate markdown documents from JSON schema files.
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 3 weeks ago) - Install project dependencies with a single command.
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) ([v1.7.2](https://github.com/hashicorp/go-getter/releases/tag/v1.7.2), 3 weeks ago) - Package for downloading things from a string URL using a variety of protocols.
@@ -22,7 +22,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (1 week ago)
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (2 weeks ago)
-- [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (2 weeks ago)
+- [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (3 weeks ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (3 weeks ago)
 - [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules. (3 months ago)
 

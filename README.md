@@ -7,8 +7,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (4 weeks ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 month ago)
 - [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (1 month ago)
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 month ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (1 month ago)
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 

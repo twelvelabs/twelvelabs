@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.34.0](https://github.com/cli/cli/releases/tag/v2.34.0), 5 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.34.0](https://github.com/cli/cli/releases/tag/v2.34.0), 6 days ago) - GitHub’s official command line tool
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 1 month ago) - Generate markdown documents from JSON schema files.
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 1 month ago) - Install project dependencies with a single command.
@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (today)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (1 day ago)
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (1 month ago)
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (1 month ago)
 - [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (1 month ago)

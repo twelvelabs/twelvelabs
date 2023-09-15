@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (3 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (4 days ago)
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (1 month ago)
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (1 month ago)
 - [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (1 month ago)
@@ -30,7 +30,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [The Genesis of Misery](https://www.goodreads.com/review/show/4961676783?utm_medium=api&amp;utm_source=rss) (7 months ago)
 - [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (7 months ago)
-- [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (9 months ago)
+- [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (10 months ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (1 year ago)
 - [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (1 year ago)
 

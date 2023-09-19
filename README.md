@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), today) - An enum generator for go
+- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), 1 day ago) - An enum generator for go
 - [cli/cli](https://github.com/cli/cli) ([v2.34.0](https://github.com/cli/cli/releases/tag/v2.34.0), 1 week ago) - GitHub’s official command line tool
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 1 month ago) - Generate markdown documents from JSON schema files.
@@ -29,7 +29,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 📚 Recent books I've read
 
 - [The Genesis of Misery](https://www.goodreads.com/review/show/4961676783?utm_medium=api&amp;utm_source=rss) (7 months ago)
-- [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (7 months ago)
+- [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (8 months ago)
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (10 months ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (1 year ago)
 - [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (1 year ago)

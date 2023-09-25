@@ -7,20 +7,20 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 month ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 month ago)
 - [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (1 month ago)
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (1 month ago)
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 month ago)
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (2 months ago)
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.35.0](https://github.com/cli/cli/releases/tag/v2.35.0), 5 days ago) - GitHub’s official command line tool
-- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), 6 days ago) - An enum generator for go
+- [cli/cli](https://github.com/cli/cli) ([v2.35.0](https://github.com/cli/cli/releases/tag/v2.35.0), 6 days ago) - GitHub’s official command line tool
+- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), 1 week ago) - An enum generator for go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 1 month ago) - Generate markdown documents from JSON schema files.
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 1 month ago) - Install project dependencies with a single command.
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 2 months ago) - Install project dependencies with a single command.
 
 #### ⭐ Recent stars
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (1 week ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (2 weeks ago)
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (1 month ago)
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (1 month ago)
 - [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (1 month ago)

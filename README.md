@@ -13,14 +13,14 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 🔭 Latest releases I've contributed to
 
 - [cli/cli](https://github.com/cli/cli) ([v2.35.0](https://github.com/cli/cli/releases/tag/v2.35.0), 1 week ago) - GitHub’s official command line tool
-- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), 1 week ago) - An enum generator for go
+- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), 2 weeks ago) - An enum generator for go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 2 months ago) - Generate markdown documents from JSON schema files.
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 2 months ago) - Install project dependencies with a single command.
 
 #### ⭐ Recent stars
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (2 weeks ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (3 weeks ago)
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (1 month ago)
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (1 month ago)
 - [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (2 months ago)

@@ -12,15 +12,15 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.36.0](https://github.com/cli/cli/releases/tag/v2.36.0), 5 days ago) - GitHub’s official command line tool
-- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), 2 weeks ago) - An enum generator for go
+- [cli/cli](https://github.com/cli/cli) ([v2.36.0](https://github.com/cli/cli/releases/tag/v2.36.0), 6 days ago) - GitHub’s official command line tool
+- [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), 3 weeks ago) - An enum generator for go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 2 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 2 months ago) - Generate markdown documents from JSON schema files.
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 2 months ago) - Install project dependencies with a single command.
 
 #### ⭐ Recent stars
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (3 weeks ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (4 weeks ago)
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (1 month ago)
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (2 months ago)
 - [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (2 months ago)
@@ -28,7 +28,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
-- [The Genesis of Misery](https://www.goodreads.com/review/show/4961676783?utm_medium=api&amp;utm_source=rss) (7 months ago)
+- [The Genesis of Misery](https://www.goodreads.com/review/show/4961676783?utm_medium=api&amp;utm_source=rss) (8 months ago)
 - [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (8 months ago)
 - [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (10 months ago)
 - [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (1 year ago)

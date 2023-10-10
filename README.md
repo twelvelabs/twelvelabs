@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.36.0](https://github.com/cli/cli/releases/tag/v2.36.0), 6 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.36.0](https://github.com/cli/cli/releases/tag/v2.36.0), 1 week ago) - GitHub’s official command line tool
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), 3 weeks ago) - An enum generator for go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 2 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 2 months ago) - Generate markdown documents from JSON schema files.
@@ -21,7 +21,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### ⭐ Recent stars
 
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (4 weeks ago)
-- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (1 month ago)
+- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (2 months ago)
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (2 months ago)
 - [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (2 months ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (2 months ago)

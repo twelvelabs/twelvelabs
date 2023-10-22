@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.37.0](https://github.com/cli/cli/releases/tag/v2.37.0), 4 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.37.0](https://github.com/cli/cli/releases/tag/v2.37.0), 5 days ago) - GitHub’s official command line tool
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.8](https://github.com/abice/go-enum/releases/tag/v0.5.8), 1 month ago) - An enum generator for go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 2 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 2 months ago) - Generate markdown documents from JSON schema files.

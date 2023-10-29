@@ -23,7 +23,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (1 month ago)
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (2 months ago)
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (2 months ago)
-- [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (2 months ago)
+- [drewstinnett/gout](https://github.com/drewstinnett/gout) - Output go objects in standard formats, such as YAML, JSON, etc (3 months ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (3 months ago)
 
 #### 📚 Recent books I've read
@@ -36,7 +36,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📜 My recent blog posts
 
-- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (9 months ago)
+- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (10 months ago)
 - [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (11 months ago)
 
 #### 📫 How to reach me

@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (3 months ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (today)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 months ago)
 - [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (3 months ago)
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (3 months ago)
@@ -12,9 +12,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.5](https://github.com/twelvelabs/stamp/releases/tag/v0.4.5), today) - A project scaffolding tool written in Go
 - [cli/cli](https://github.com/cli/cli) ([v2.39.1](https://github.com/cli/cli/releases/tag/v2.39.1), 4 days ago) - GitHub’s official command line tool
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.10](https://github.com/abice/go-enum/releases/tag/v0.5.10), 5 days ago) - An enum generator for go
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.4.4](https://github.com/twelvelabs/stamp/releases/tag/v0.4.4), 3 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 3 months ago) - Generate markdown documents from JSON schema files.
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.1](https://github.com/twelvelabs/depctl/releases/tag/v0.1.1), 3 months ago) - Install project dependencies with a single command.
 

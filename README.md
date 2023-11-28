@@ -4,16 +4,16 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 day ago)
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (4 days ago)
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (4 days ago)
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (4 days ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 days ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (5 days ago)
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (5 days ago)
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (5 days ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.39.2](https://github.com/cli/cli/releases/tag/v2.39.2), today) - GitHub’s official command line tool
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.4.0](https://github.com/twelvelabs/stylist/releases/tag/v0.4.0), 2 days ago) - Manage all your code quality tools with a single executable
+- [cli/cli](https://github.com/cli/cli) ([v2.39.2](https://github.com/cli/cli/releases/tag/v2.39.2), 1 day ago) - GitHub’s official command line tool
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.4.0](https://github.com/twelvelabs/stylist/releases/tag/v0.4.0), 3 days ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.0](https://github.com/twelvelabs/stamp/releases/tag/v0.5.0), 1 week ago) - A project scaffolding tool written in Go
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.5.10](https://github.com/abice/go-enum/releases/tag/v0.5.10), 2 weeks ago) - An enum generator for go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.1](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.1), 4 months ago) - Generate markdown documents from JSON schema files.
@@ -36,7 +36,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📜 My recent blog posts
 
-- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (10 months ago)
+- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (11 months ago)
 - [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (1 year ago)
 
 #### 📫 How to reach me

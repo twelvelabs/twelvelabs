@@ -12,9 +12,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
+- [cli/cli](https://github.com/cli/cli) ([v2.40.0](https://github.com/cli/cli/releases/tag/v2.40.0), today) - GitHub’s official command line tool
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.3](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.3), 3 days ago) - Generate markdown documents from JSON schema files.
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.2](https://github.com/twelvelabs/depctl/releases/tag/v0.1.2), 3 days ago) - Install project dependencies with a single command.
-- [cli/cli](https://github.com/cli/cli) ([v2.39.2](https://github.com/cli/cli/releases/tag/v2.39.2), 1 week ago) - GitHub’s official command line tool
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.4.0](https://github.com/twelvelabs/stylist/releases/tag/v0.4.0), 1 week ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.0](https://github.com/twelvelabs/stamp/releases/tag/v0.5.0), 2 weeks ago) - A project scaffolding tool written in Go
 

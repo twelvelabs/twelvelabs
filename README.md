@@ -4,16 +4,16 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (3 days ago)
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (4 days ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 week ago)
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 week ago)
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 week ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 weeks ago)
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (2 weeks ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.3](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.3), 2 days ago) - Generate markdown documents from JSON schema files.
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.2](https://github.com/twelvelabs/depctl/releases/tag/v0.1.2), 2 days ago) - Install project dependencies with a single command.
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.1.3](https://github.com/twelvelabs/schemadoc/releases/tag/v0.1.3), 3 days ago) - Generate markdown documents from JSON schema files.
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.2](https://github.com/twelvelabs/depctl/releases/tag/v0.1.2), 3 days ago) - Install project dependencies with a single command.
 - [cli/cli](https://github.com/cli/cli) ([v2.39.2](https://github.com/cli/cli/releases/tag/v2.39.2), 1 week ago) - GitHub’s official command line tool
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.4.0](https://github.com/twelvelabs/stylist/releases/tag/v0.4.0), 1 week ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.0](https://github.com/twelvelabs/stamp/releases/tag/v0.5.0), 2 weeks ago) - A project scaffolding tool written in Go

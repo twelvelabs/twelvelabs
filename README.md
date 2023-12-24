@@ -4,23 +4,23 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (3 days ago)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 days ago)
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (3 days ago)
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (3 days ago)
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (3 days ago)
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (4 days ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (4 days ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (4 days ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (4 days ago)
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [abice/go-enum](https://github.com/abice/go-enum) ([v0.6.0](https://github.com/abice/go-enum/releases/tag/v0.6.0), 5 days ago) - An enum generator for go
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.3.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.3.0), 6 days ago) - Generate markdown documents from JSON schema files.
+- [abice/go-enum](https://github.com/abice/go-enum) ([v0.6.0](https://github.com/abice/go-enum/releases/tag/v0.6.0), 6 days ago) - An enum generator for go
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.3.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.3.0), 1 week ago) - Generate markdown documents from JSON schema files.
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.2](https://github.com/twelvelabs/depctl/releases/tag/v0.1.2), 2 weeks ago) - Install project dependencies with a single command.
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.4.0](https://github.com/twelvelabs/stylist/releases/tag/v0.4.0), 4 weeks ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.0](https://github.com/twelvelabs/stamp/releases/tag/v0.5.0), 1 month ago) - A project scaffolding tool written in Go
 
 #### ⭐ Recent stars
 
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 day ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 days ago)
 - [philippta/trip](https://github.com/philippta/trip) - Elegant middleware functions for your HTTP clients. (1 week ago)
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor (1 month ago)
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis. (1 month ago)

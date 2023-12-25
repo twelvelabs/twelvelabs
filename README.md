@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (today)
 - [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas (1 day ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 days ago)
 - [philippta/trip](https://github.com/philippta/trip) - Elegant middleware functions for your HTTP clients. (2 weeks ago)
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor (1 month ago)
-- [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis. (1 month ago)
 
 #### 📚 Recent books I've read
 

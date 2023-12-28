@@ -4,8 +4,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 day ago)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 days ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 days ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 days ago)
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 week ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 week ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 week ago)
@@ -20,9 +20,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (2 days ago)
-- [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas (3 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (5 days ago)
+- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (3 days ago)
+- [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas (4 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (6 days ago)
 - [philippta/trip](https://github.com/philippta/trip) - Elegant middleware functions for your HTTP clients. (2 weeks ago)
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor (1 month ago)
 
@@ -36,7 +36,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📜 My recent blog posts
 
-- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (11 months ago)
+- [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (1 year ago)
 - [Hello World](https://twelvelabs.com/2022/11/20/hello-world/) (1 year ago)
 
 #### 📫 How to reach me

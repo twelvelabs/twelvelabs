@@ -4,15 +4,15 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (today)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 days ago)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 days ago)
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (1 day ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (3 days ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (4 days ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 week ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.4.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.4.0), today) - Generate markdown documents from JSON schema files.
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.4.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.4.0), 1 day ago) - Generate markdown documents from JSON schema files.
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.6.0](https://github.com/abice/go-enum/releases/tag/v0.6.0), 1 week ago) - An enum generator for go
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.2](https://github.com/twelvelabs/depctl/releases/tag/v0.1.2), 3 weeks ago) - Install project dependencies with a single command.
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.4.0](https://github.com/twelvelabs/stylist/releases/tag/v0.4.0), 1 month ago) - Manage all your code quality tools with a single executable
@@ -20,9 +20,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (3 days ago)
-- [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas (4 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (6 days ago)
+- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (4 days ago)
+- [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas (5 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 week ago)
 - [philippta/trip](https://github.com/philippta/trip) - Elegant middleware functions for your HTTP clients. (2 weeks ago)
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor (1 month ago)
 

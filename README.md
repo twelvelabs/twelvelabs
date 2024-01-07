@@ -28,11 +28,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
-- [The Genesis of Misery](https://www.goodreads.com/review/show/4961676783?utm_medium=api&amp;utm_source=rss) (11 months ago)
-- [The Mountain in the Sea](https://www.goodreads.com/review/show/5027288300?utm_medium=api&amp;utm_source=rss) (11 months ago)
-- [August Kitko and the Mechas from Space (The Starmetal Symphony, #1)](https://www.goodreads.com/review/show/5100246985?utm_medium=api&amp;utm_source=rss) (1 year ago)
-- [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/4962790910?utm_medium=api&amp;utm_source=rss) (1 year ago)
-- [Under Fortunate Stars](https://www.goodreads.com/review/show/4813809207?utm_medium=api&amp;utm_source=rss) (1 year ago)
+- [Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America](https://www.goodreads.com/review/show/6141377830?utm_medium=api&amp;utm_source=rss) (today)
+- [Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President](https://www.goodreads.com/review/show/6141360969?utm_medium=api&amp;utm_source=rss) (today)
+- [A Prayer for the Crown-Shy (Monk &amp; Robot, #2)](https://www.goodreads.com/review/show/3955984419?utm_medium=api&amp;utm_source=rss) (today)
+- [Children of Memory (Children of Time, #3)](https://www.goodreads.com/review/show/4809055363?utm_medium=api&amp;utm_source=rss) (today)
+- [Starter Villain](https://www.goodreads.com/review/show/5308347355?utm_medium=api&amp;utm_source=rss) (today)
 
 #### 📜 My recent blog posts
 

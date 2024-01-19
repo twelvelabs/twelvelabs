@@ -5,7 +5,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 week ago)
-- [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files (1 week ago)
+- [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files (2 weeks ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (2 weeks ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (3 weeks ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 weeks ago)
@@ -23,12 +23,12 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [icio/actiongraph](https://github.com/icio/actiongraph) - Go build actiongraph debug visualiser. (2 weeks ago)
 - [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (3 weeks ago)
 - [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas (3 weeks ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 weeks ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (4 weeks ago)
 - [philippta/trip](https://github.com/philippta/trip) - Elegant middleware functions for your HTTP clients. (1 month ago)
 
 #### 📚 Recent books I've read
 
-- [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (1 day ago)
+- [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (2 days ago)
 - [A Big Ship at the Edge of the Universe (The Salvagers, #1)](https://www.goodreads.com/review/show/6141389021?utm_medium=api&amp;utm_source=rss) (1 week ago)
 - [Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America](https://www.goodreads.com/review/show/6141377830?utm_medium=api&amp;utm_source=rss) (1 week ago)
 - [Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President](https://www.goodreads.com/review/show/6141360969?utm_medium=api&amp;utm_source=rss) (1 week ago)

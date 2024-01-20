@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (today)
 - [TobiasYin/go-lsp](https://github.com/TobiasYin/go-lsp) - language server protocol sdk implement for go (today)
 - [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go (today)
 - [icio/actiongraph](https://github.com/icio/actiongraph) - Go build actiongraph debug visualiser. (2 weeks ago)
 - [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (3 weeks ago)
-- [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas (3 weeks ago)
 
 #### 📚 Recent books I've read
 

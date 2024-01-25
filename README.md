@@ -7,7 +7,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 weeks ago)
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files (2 weeks ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (3 weeks ago)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (4 weeks ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 month ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -20,16 +20,16 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (4 days ago)
-- [TobiasYin/go-lsp](https://github.com/TobiasYin/go-lsp) - language server protocol sdk implement for go (4 days ago)
-- [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go (4 days ago)
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (5 days ago)
+- [TobiasYin/go-lsp](https://github.com/TobiasYin/go-lsp) - language server protocol sdk implement for go (5 days ago)
+- [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go (5 days ago)
 - [icio/actiongraph](https://github.com/icio/actiongraph) - Go build actiongraph debug visualiser. (3 weeks ago)
 - [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (1 month ago)
 
 #### 📚 Recent books I've read
 
 - [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (1 week ago)
-- [A Big Ship at the Edge of the Universe (The Salvagers, #1)](https://www.goodreads.com/review/show/6141389021?utm_medium=api&amp;utm_source=rss) (1 week ago)
+- [A Big Ship at the Edge of the Universe (The Salvagers, #1)](https://www.goodreads.com/review/show/6141389021?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
 - [Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America](https://www.goodreads.com/review/show/6141377830?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
 - [Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President](https://www.goodreads.com/review/show/6141360969?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
 - [A Prayer for the Crown-Shy (Monk &amp; Robot, #2)](https://www.goodreads.com/review/show/3955984419?utm_medium=api&amp;utm_source=rss) (2 weeks ago)

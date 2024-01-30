@@ -28,11 +28,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
+- [Translation State](https://www.goodreads.com/review/show/5061977993?utm_medium=api&amp;utm_source=rss) (today)
 - [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (1 week ago)
 - [A Big Ship at the Edge of the Universe (The Salvagers, #1)](https://www.goodreads.com/review/show/6141389021?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
 - [Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America](https://www.goodreads.com/review/show/6141377830?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
 - [Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President](https://www.goodreads.com/review/show/6141360969?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
-- [A Prayer for the Crown-Shy (Monk &amp; Robot, #2)](https://www.goodreads.com/review/show/3955984419?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
 
 #### 📜 My recent blog posts
 

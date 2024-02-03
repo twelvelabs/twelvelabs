@@ -20,16 +20,16 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (1 week ago)
-- [TobiasYin/go-lsp](https://github.com/TobiasYin/go-lsp) - language server protocol sdk implement for go (1 week ago)
-- [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go (1 week ago)
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (2 weeks ago)
+- [TobiasYin/go-lsp](https://github.com/TobiasYin/go-lsp) - language server protocol sdk implement for go (2 weeks ago)
+- [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go (2 weeks ago)
 - [icio/actiongraph](https://github.com/icio/actiongraph) - Go build actiongraph debug visualiser. (1 month ago)
 - [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (1 month ago)
 
 #### 📚 Recent books I've read
 
-- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (today)
-- [Translation State](https://www.goodreads.com/review/show/5061977993?utm_medium=api&amp;utm_source=rss) (3 days ago)
+- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (1 day ago)
+- [Translation State](https://www.goodreads.com/review/show/5061977993?utm_medium=api&amp;utm_source=rss) (4 days ago)
 - [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
 - [A Big Ship at the Edge of the Universe (The Salvagers, #1)](https://www.goodreads.com/review/show/6141389021?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
 - [Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America](https://www.goodreads.com/review/show/6141377830?utm_medium=api&amp;utm_source=rss) (3 weeks ago)

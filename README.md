@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (4 weeks ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 month ago)
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files (1 month ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (1 month ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 month ago)
@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.1](https://github.com/twelvelabs/stamp/releases/tag/v0.5.1), 4 weeks ago) - A project scaffolding tool written in Go
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.1](https://github.com/twelvelabs/stamp/releases/tag/v0.5.1), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 1 month ago) - Generate markdown documents from JSON schema files.
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.6.0](https://github.com/abice/go-enum/releases/tag/v0.6.0), 1 month ago) - An enum generator for go
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.2](https://github.com/twelvelabs/depctl/releases/tag/v0.1.2), 2 months ago) - Install project dependencies with a single command.
@@ -28,11 +28,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
-- [The Tusks of Extinction](https://www.goodreads.com/review/show/6235914464?utm_medium=api&amp;utm_source=rss) (1 day ago)
-- [System Collapse (The Murderbot Diaries, #7)](https://www.goodreads.com/review/show/5308316531?utm_medium=api&amp;utm_source=rss) (2 days ago)
-- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (4 days ago)
+- [The Tusks of Extinction](https://www.goodreads.com/review/show/6235914464?utm_medium=api&amp;utm_source=rss) (2 days ago)
+- [System Collapse (The Murderbot Diaries, #7)](https://www.goodreads.com/review/show/5308316531?utm_medium=api&amp;utm_source=rss) (3 days ago)
+- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (5 days ago)
 - [Translation State](https://www.goodreads.com/review/show/5061977993?utm_medium=api&amp;utm_source=rss) (1 week ago)
-- [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
+- [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
 
 #### 📜 My recent blog posts
 

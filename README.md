@@ -28,9 +28,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
-- [The Tusks of Extinction](https://www.goodreads.com/review/show/6235914464?utm_medium=api&amp;utm_source=rss) (2 days ago)
-- [System Collapse (The Murderbot Diaries, #7)](https://www.goodreads.com/review/show/5308316531?utm_medium=api&amp;utm_source=rss) (3 days ago)
-- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (5 days ago)
+- [The Tusks of Extinction](https://www.goodreads.com/review/show/6235914464?utm_medium=api&amp;utm_source=rss) (3 days ago)
+- [System Collapse (The Murderbot Diaries, #7)](https://www.goodreads.com/review/show/5308316531?utm_medium=api&amp;utm_source=rss) (4 days ago)
+- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (6 days ago)
 - [Translation State](https://www.goodreads.com/review/show/5061977993?utm_medium=api&amp;utm_source=rss) (1 week ago)
 - [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
 

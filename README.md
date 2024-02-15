@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (today)
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (3 weeks ago)
 - [TobiasYin/go-lsp](https://github.com/TobiasYin/go-lsp) - language server protocol sdk implement for go (3 weeks ago)
 - [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go (3 weeks ago)
 - [icio/actiongraph](https://github.com/icio/actiongraph) - Go build actiongraph debug visualiser. (1 month ago)
-- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) - Library to help with walking of code directories in go (1 month ago)
 
 #### 📚 Recent books I've read
 

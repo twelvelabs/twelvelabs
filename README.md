@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [google/capslock](https://github.com/google/capslock) (3 days ago)
+- [google/capslock](https://github.com/google/capslock) (4 days ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (1 week ago)
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (1 month ago)
 - [TobiasYin/go-lsp](https://github.com/TobiasYin/go-lsp) - language server protocol sdk implement for go (1 month ago)
@@ -30,7 +30,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [The Tusks of Extinction](https://www.goodreads.com/review/show/6235914464?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
 - [System Collapse (The Murderbot Diaries, #7)](https://www.goodreads.com/review/show/5308316531?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
-- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
+- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
 - [Translation State](https://www.goodreads.com/review/show/5061977993?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
 - [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (1 month ago)
 

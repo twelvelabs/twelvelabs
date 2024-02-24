@@ -8,7 +8,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 month ago)
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files (1 month ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (1 month ago)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 month ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [google/capslock](https://github.com/google/capslock) (4 days ago)
+- [google/capslock](https://github.com/google/capslock) (5 days ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (1 week ago)
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (1 month ago)
 - [TobiasYin/go-lsp](https://github.com/TobiasYin/go-lsp) - language server protocol sdk implement for go (1 month ago)

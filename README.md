@@ -16,7 +16,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.1](https://github.com/twelvelabs/stamp/releases/tag/v0.5.1), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 2 months ago) - Generate markdown documents from JSON schema files.
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.6.0](https://github.com/abice/go-enum/releases/tag/v0.6.0), 2 months ago) - An enum generator for go
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.2](https://github.com/twelvelabs/depctl/releases/tag/v0.1.2), 2 months ago) - Install project dependencies with a single command.
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.2](https://github.com/twelvelabs/depctl/releases/tag/v0.1.2), 3 months ago) - Install project dependencies with a single command.
 
 #### ⭐ Recent stars
 
@@ -29,8 +29,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 📚 Recent books I've read
 
 - [The Tusks of Extinction](https://www.goodreads.com/review/show/6235914464?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
-- [System Collapse (The Murderbot Diaries, #7)](https://www.goodreads.com/review/show/5308316531?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
-- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (4 weeks ago)
+- [System Collapse (The Murderbot Diaries, #7)](https://www.goodreads.com/review/show/5308316531?utm_medium=api&amp;utm_source=rss) (4 weeks ago)
+- [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (1 month ago)
 - [Translation State](https://www.goodreads.com/review/show/5061977993?utm_medium=api&amp;utm_source=rss) (1 month ago)
 - [Lords of Uncreation (The Final Architecture, #3)](https://www.goodreads.com/review/show/5308322130?utm_medium=api&amp;utm_source=rss) (1 month ago)
 

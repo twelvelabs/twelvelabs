@@ -4,16 +4,16 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 days ago)
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (5 days ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (4 days ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (6 days ago)
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files (2 months ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (2 months ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.3](https://github.com/twelvelabs/stamp/releases/tag/v0.5.3), 5 days ago) - A project scaffolding tool written in Go
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 4 weeks ago) - Manage all your code quality tools with a single executable
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.3](https://github.com/twelvelabs/stamp/releases/tag/v0.5.3), 6 days ago) - A project scaffolding tool written in Go
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 1 month ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 2 months ago) - Generate markdown documents from JSON schema files.
 - [abice/go-enum](https://github.com/abice/go-enum) ([v0.6.0](https://github.com/abice/go-enum/releases/tag/v0.6.0), 2 months ago) - An enum generator for go
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) ([v0.1.2](https://github.com/twelvelabs/depctl/releases/tag/v0.1.2), 3 months ago) - Install project dependencies with a single command.
@@ -21,7 +21,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### ⭐ Recent stars
 
 - [google/capslock](https://github.com/google/capslock) (3 weeks ago)
-- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (3 weeks ago)
+- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (4 weeks ago)
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (1 month ago)
 - [TobiasYin/go-lsp](https://github.com/TobiasYin/go-lsp) - language server protocol sdk implement for go (1 month ago)
 - [tliron/glsp](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go (1 month ago)

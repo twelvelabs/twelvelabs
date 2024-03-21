@@ -28,8 +28,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
-- [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (5 days ago)
-- [World Running Down](https://www.goodreads.com/review/show/5314703206?utm_medium=api&amp;utm_source=rss) (5 days ago)
+- [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (6 days ago)
+- [World Running Down](https://www.goodreads.com/review/show/5314703206?utm_medium=api&amp;utm_source=rss) (6 days ago)
 - [The Tusks of Extinction](https://www.goodreads.com/review/show/6235914464?utm_medium=api&amp;utm_source=rss) (1 month ago)
 - [System Collapse (The Murderbot Diaries, #7)](https://www.goodreads.com/review/show/5308316531?utm_medium=api&amp;utm_source=rss) (1 month ago)
 - [Station Eternity (The Midsolar Murders, #1)](https://www.goodreads.com/review/show/5027290745?utm_medium=api&amp;utm_source=rss) (1 month ago)

@@ -8,7 +8,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 weeks ago)
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files (2 months ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (2 months ago)
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 months ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,8 +28,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
-- [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (today)
-- [These Burning Stars (The Kindom Trilogy, #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (3 days ago)
+- [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (1 day ago)
+- [These Burning Stars (The Kindom Trilogy, #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (4 days ago)
 - [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (1 week ago)
 - [World Running Down](https://www.goodreads.com/review/show/5314703206?utm_medium=api&amp;utm_source=rss) (1 week ago)
 - [The Tusks of Extinction](https://www.goodreads.com/review/show/6235914464?utm_medium=api&amp;utm_source=rss) (1 month ago)

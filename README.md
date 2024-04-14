@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (1 day ago)
+- [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (2 days ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 weeks ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 month ago)
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files (3 months ago)
@@ -20,8 +20,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (6 days ago)
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (6 days ago)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (1 week ago)
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (1 week ago)
 - [google/capslock](https://github.com/google/capslock) (1 month ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (1 month ago)
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (2 months ago)
@@ -29,10 +29,10 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 📚 Recent books I've read
 
 - [The Terraformers](https://www.goodreads.com/review/show/5818779700?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
-- [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (2 weeks ago)
+- [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
 - [These Burning Stars (The Kindom Trilogy, #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
-- [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (4 weeks ago)
-- [World Running Down](https://www.goodreads.com/review/show/5314703206?utm_medium=api&amp;utm_source=rss) (4 weeks ago)
+- [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (1 month ago)
+- [World Running Down](https://www.goodreads.com/review/show/5314703206?utm_medium=api&amp;utm_source=rss) (1 month ago)
 
 #### 📜 My recent blog posts
 

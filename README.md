@@ -28,7 +28,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
-- [The Terraformers](https://www.goodreads.com/review/show/5818779700?utm_medium=api&amp;utm_source=rss) (3 weeks ago)
+- [The Terraformers](https://www.goodreads.com/review/show/5818779700?utm_medium=api&amp;utm_source=rss) (4 weeks ago)
 - [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (1 month ago)
 - [These Burning Stars (The Kindom Trilogy, #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (1 month ago)
 - [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (1 month ago)

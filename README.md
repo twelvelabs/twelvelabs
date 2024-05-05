@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.2](https://github.com/boyter/gocodewalker/releases/tag/v1.3.2), 2 days ago) - Library to help with walking of code directories in go
+- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.2](https://github.com/boyter/gocodewalker/releases/tag/v1.3.2), 3 days ago) - Library to help with walking of code directories in go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.3](https://github.com/twelvelabs/stamp/releases/tag/v0.5.3), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 2 months ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 4 months ago) - Generate markdown documents from JSON schema files.
@@ -20,8 +20,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (3 weeks ago)
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (3 weeks ago)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (4 weeks ago)
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (4 weeks ago)
 - [google/capslock](https://github.com/google/capslock) (2 months ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (2 months ago)
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (3 months ago)

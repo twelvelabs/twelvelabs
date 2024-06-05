@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.3](https://github.com/boyter/gocodewalker/releases/tag/v1.3.3), 6 days ago) - Library to help with walking of code directories in go
+- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.3](https://github.com/boyter/gocodewalker/releases/tag/v1.3.3), 1 week ago) - Library to help with walking of code directories in go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.3](https://github.com/twelvelabs/stamp/releases/tag/v0.5.3), 2 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 3 months ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 5 months ago) - Generate markdown documents from JSON schema files.
@@ -28,7 +28,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 📚 Recent books I've read
 
-- [Blitzed: Drugs in the Third Reich](https://www.goodreads.com/review/show/1827909175?utm_medium=api&amp;utm_source=rss) (4 days ago)
+- [Blitzed: Drugs in the Third Reich](https://www.goodreads.com/review/show/1827909175?utm_medium=api&amp;utm_source=rss) (5 days ago)
 - [The Terraformers](https://www.goodreads.com/review/show/5818779700?utm_medium=api&amp;utm_source=rss) (2 months ago)
 - [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (2 months ago)
 - [These Burning Stars (The Kindom Trilogy, #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (2 months ago)

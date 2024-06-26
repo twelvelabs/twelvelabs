@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.3](https://github.com/boyter/gocodewalker/releases/tag/v1.3.3), 3 weeks ago) - Library to help with walking of code directories in go
+- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.3](https://github.com/boyter/gocodewalker/releases/tag/v1.3.3), 4 weeks ago) - Library to help with walking of code directories in go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.3](https://github.com/twelvelabs/stamp/releases/tag/v0.5.3), 3 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 4 months ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 5 months ago) - Generate markdown documents from JSON schema files.
@@ -20,10 +20,10 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3 (4 weeks ago)
-- [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go (4 weeks ago)
-- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (4 weeks ago)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (4 weeks ago)
+- [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3 (1 month ago)
+- [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go (1 month ago)
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (1 month ago)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (1 month ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (2 months ago)
 
 #### 📚 Recent books I've read

@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner. (2 days ago)
+- [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner. (3 days ago)
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3 (1 month ago)
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go (1 month ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (1 month ago)
@@ -32,7 +32,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [The Terraformers](https://www.goodreads.com/review/show/5818779700?utm_medium=api&amp;utm_source=rss) (3 months ago)
 - [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (3 months ago)
 - [These Burning Stars (The Kindom Trilogy, #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (3 months ago)
-- [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (3 months ago)
+- [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (4 months ago)
 
 #### 📜 My recent blog posts
 

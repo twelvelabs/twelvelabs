@@ -16,11 +16,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.3](https://github.com/twelvelabs/stamp/releases/tag/v0.5.3), 4 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 5 months ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 6 months ago) - Generate markdown documents from JSON schema files.
-- [abice/go-enum](https://github.com/abice/go-enum) ([v0.6.0](https://github.com/abice/go-enum/releases/tag/v0.6.0), 6 months ago) - An enum generator for go
+- [abice/go-enum](https://github.com/abice/go-enum) ([v0.6.0](https://github.com/abice/go-enum/releases/tag/v0.6.0), 7 months ago) - An enum generator for go
 
 #### ⭐ Recent stars
 
-- [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner. (4 days ago)
+- [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner. (5 days ago)
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3 (1 month ago)
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go (1 month ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (1 month ago)

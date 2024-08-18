@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips (4 days ago)
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips (5 days ago)
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner. (1 month ago)
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3 (2 months ago)
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go (2 months ago)
@@ -31,7 +31,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [Blitzed: Drugs in the Third Reich](https://www.goodreads.com/review/show/1827909175?utm_medium=api&amp;utm_source=rss) (2 months ago)
 - [The Terraformers](https://www.goodreads.com/review/show/5818779700?utm_medium=api&amp;utm_source=rss) (4 months ago)
 - [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (4 months ago)
-- [These Burning Stars (The Kindom Trilogy #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (4 months ago)
+- [These Burning Stars (The Kindom Trilogy #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (5 months ago)
 - [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (5 months ago)
 
 #### 📜 My recent blog posts

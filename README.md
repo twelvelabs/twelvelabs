@@ -5,14 +5,14 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (4 months ago)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (4 months ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (5 months ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (5 months ago)
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files (7 months ago)
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (7 months ago)
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.3](https://github.com/boyter/gocodewalker/releases/tag/v1.3.3), 2 months ago) - Library to help with walking of code directories in go
+- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.3](https://github.com/boyter/gocodewalker/releases/tag/v1.3.3), 3 months ago) - Library to help with walking of code directories in go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.3](https://github.com/twelvelabs/stamp/releases/tag/v0.5.3), 5 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 6 months ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 7 months ago) - Generate markdown documents from JSON schema files.
@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips (1 week ago)
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips (2 weeks ago)
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner. (1 month ago)
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3 (3 months ago)
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go (3 months ago)

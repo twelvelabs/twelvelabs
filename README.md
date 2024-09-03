@@ -31,7 +31,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [Blitzed: Drugs in the Third Reich](https://www.goodreads.com/review/show/1827909175?utm_medium=api&amp;utm_source=rss) (3 months ago)
 - [The Terraformers](https://www.goodreads.com/review/show/5818779700?utm_medium=api&amp;utm_source=rss) (5 months ago)
 - [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (5 months ago)
-- [These Burning Stars (The Kindom Trilogy #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (5 months ago)
+- [These Burning Stars (The Kindom Trilogy, #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (5 months ago)
 - [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (5 months ago)
 
 #### 📜 My recent blog posts

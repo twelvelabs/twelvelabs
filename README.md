@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (3 days ago)
+- [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (4 days ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (4 months ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (5 months ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (5 months ago)
@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips (2 weeks ago)
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips (3 weeks ago)
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner. (1 month ago)
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3 (3 months ago)
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go (3 months ago)

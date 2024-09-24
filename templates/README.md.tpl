@@ -17,11 +17,6 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
-#### 📚 Recent books I've read
-{{ range rss "https://www.goodreads.com/review/list_rss/61757408?key=rqby1uK8n_Nk7oYR2IHio7wNV0MTfLpJyJxxxmyY4A8wwVgH&shelf=read" 5 }}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end }}
-
 #### 📜 My recent blog posts
 {{ range rss "https://twelvelabs.com/posts/index.xml" 5 }}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})

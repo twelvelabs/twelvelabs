@@ -26,14 +26,6 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3 (4 months ago)
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go (4 months ago)
 
-#### 📚 Recent books I've read
-
-- [Blitzed: Drugs in the Third Reich](https://www.goodreads.com/review/show/1827909175?utm_medium=api&amp;utm_source=rss) (3 months ago)
-- [The Terraformers](https://www.goodreads.com/review/show/5818779700?utm_medium=api&amp;utm_source=rss) (6 months ago)
-- [Flight &amp; Anchor](https://www.goodreads.com/review/show/6371038308?utm_medium=api&amp;utm_source=rss) (6 months ago)
-- [These Burning Stars (The Kindom Trilogy, #1)](https://www.goodreads.com/review/show/6141288905?utm_medium=api&amp;utm_source=rss) (6 months ago)
-- [On Earth as It Is on Television](https://www.goodreads.com/review/show/5308338220?utm_medium=api&amp;utm_source=rss) (6 months ago)
-
 #### 📜 My recent blog posts
 
 - [Go&#39;s build system](https://twelvelabs.com/2023/01/02/go-build-system/) (2 years ago)

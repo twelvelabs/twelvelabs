@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (3 weeks ago)
+- [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (4 weeks ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (5 months ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (6 months ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (6 months ago)
@@ -16,7 +16,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.3](https://github.com/boyter/gocodewalker/releases/tag/v1.3.3), 4 months ago) - Library to help with walking of code directories in go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.5.3](https://github.com/twelvelabs/stamp/releases/tag/v0.5.3), 6 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 7 months ago) - Manage all your code quality tools with a single executable
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 8 months ago) - Generate markdown documents from JSON schema files.
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 9 months ago) - Generate markdown documents from JSON schema files.
 
 #### ⭐ Recent stars
 

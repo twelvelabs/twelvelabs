@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (today)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 day ago)
 - [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (1 month ago)
 - [twelvelabs/dotfiles](https://github.com/twelvelabs/dotfiles) - My dotfiles and machine bootstrap scripts  (6 months ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (6 months ago)
@@ -20,10 +20,10 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation (3 days ago)
+- [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation (4 days ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (1 week ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (3 weeks ago)
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips (1 month ago)
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips (2 months ago)
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner. (3 months ago)
 
 #### 📜 My recent blog posts

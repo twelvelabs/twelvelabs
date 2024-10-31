@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [mattgialelis/dutycontroller](https://github.com/mattgialelis/dutycontroller) - Pagerduty Kubernetes CRD (today)
 - [survivorbat/huhtest](https://github.com/survivorbat/huhtest) - huhtest is a work-in-progress test library for your huh forms (5 days ago)
 - [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation (3 weeks ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (4 weeks ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 month ago)
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips (2 months ago)
 
 #### 📜 My recent blog posts
 

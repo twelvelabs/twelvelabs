@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 2 weeks ago) - Termite is a collection of utilities for building CLI tools in Go
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 3 weeks ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 3 weeks ago) - A project scaffolding tool written in Go
 - [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.25.0](https://github.com/ohler55/ojg/releases/tag/v1.25.0), 3 weeks ago) - Optimized JSON for Go
 - [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.5](https://github.com/boyter/gocodewalker/releases/tag/v1.3.5), 1 month ago) - Library to help with walking of code directories in go
@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (1 day ago)
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (2 days ago)
 - [mattgialelis/dutycontroller](https://github.com/mattgialelis/dutycontroller) - Pagerduty Kubernetes CRD (3 weeks ago)
 - [survivorbat/huhtest](https://github.com/survivorbat/huhtest) - huhtest is a work-in-progress test library for your huh forms (3 weeks ago)
 - [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation (1 month ago)

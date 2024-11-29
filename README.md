@@ -5,17 +5,17 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (3 weeks ago)
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (4 weeks ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 month ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 month ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (1 month ago)
 - [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 3 weeks ago) - Termite is a collection of utilities for building CLI tools in Go
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 4 weeks ago) - A project scaffolding tool written in Go
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 4 weeks ago) - Termite is a collection of utilities for building CLI tools in Go
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 1 month ago) - A project scaffolding tool written in Go
 - [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.25.0](https://github.com/ohler55/ojg/releases/tag/v1.25.0), 1 month ago) - Optimized JSON for Go
-- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.5](https://github.com/boyter/gocodewalker/releases/tag/v1.3.5), 1 month ago) - Library to help with walking of code directories in go
+- [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.5](https://github.com/boyter/gocodewalker/releases/tag/v1.3.5), 2 months ago) - Library to help with walking of code directories in go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 9 months ago) - Manage all your code quality tools with a single executable
 
 #### ⭐ Recent stars

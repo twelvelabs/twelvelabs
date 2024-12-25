@@ -4,17 +4,17 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (3 days ago)
-- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 days ago)
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (3 days ago)
-- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (3 days ago)
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (3 days ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (4 days ago)
+- [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (4 days ago)
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (4 days ago)
+- [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (4 days ago)
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 1 month ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 1 month ago) - A project scaffolding tool written in Go
-- [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.25.0](https://github.com/ohler55/ojg/releases/tag/v1.25.0), 1 month ago) - Optimized JSON for Go
+- [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.25.0](https://github.com/ohler55/ojg/releases/tag/v1.25.0), 2 months ago) - Optimized JSON for Go
 - [boyter/gocodewalker](https://github.com/boyter/gocodewalker) ([v1.3.5](https://github.com/boyter/gocodewalker/releases/tag/v1.3.5), 2 months ago) - Library to help with walking of code directories in go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 10 months ago) - Manage all your code quality tools with a single executable
 
@@ -22,7 +22,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (1 month ago)
 - [mattgialelis/dutycontroller](https://github.com/mattgialelis/dutycontroller) - Pagerduty Kubernetes CRD (1 month ago)
-- [survivorbat/huhtest](https://github.com/survivorbat/huhtest) - huhtest is a work-in-progress test library for your huh forms (1 month ago)
+- [survivorbat/huhtest](https://github.com/survivorbat/huhtest) - huhtest is a work-in-progress test library for your huh forms (2 months ago)
 - [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation (2 months ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (2 months ago)
 

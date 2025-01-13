@@ -16,7 +16,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout code
-        uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # pin@v3
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # pin@v3
 
       - name: Generate README
         uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4 # pin@master

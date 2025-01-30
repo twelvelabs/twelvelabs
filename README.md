@@ -12,8 +12,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.26.1](https://github.com/ohler55/ojg/releases/tag/v1.26.1), 2 weeks ago) - Optimized JSON for Go
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 2 months ago) - Termite is a collection of utilities for building CLI tools in Go
+- [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.26.1](https://github.com/ohler55/ojg/releases/tag/v1.26.1), 3 weeks ago) - Optimized JSON for Go
+- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 3 months ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 3 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 11 months ago) - Manage all your code quality tools with a single executable
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 1 year ago) - Generate markdown documents from JSON schema files.

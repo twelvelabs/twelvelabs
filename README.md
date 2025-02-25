@@ -8,7 +8,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 months ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (2 months ago)
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (2 months ago)
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 months ago)
+- [twelvelabs/.github](https://github.com/twelvelabs/.github) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

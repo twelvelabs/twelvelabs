@@ -21,7 +21,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### ⭐ Recent stars
 
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (3 months ago)
-- [mattgialelis/dutycontroller](https://github.com/mattgialelis/dutycontroller) - Pagerduty Kubernetes CRD (3 months ago)
+- [mattgialelis/dutycontroller](https://github.com/mattgialelis/dutycontroller) - Pagerduty Kubernetes CRD (4 months ago)
 - [survivorbat/huhtest](https://github.com/survivorbat/huhtest) - huhtest is a work-in-progress test library for your huh forms (4 months ago)
 - [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation (4 months ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (4 months ago)

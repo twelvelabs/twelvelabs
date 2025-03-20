@@ -20,8 +20,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [edoardottt/depsdev](https://github.com/edoardottt/depsdev) - CLI client (and Golang module) for deps.dev API. Free access to dependencies, licenses, advisories, and other critical health and security signals for open source package versions. (2 days ago)
-- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (3 months ago)
+- [edoardottt/depsdev](https://github.com/edoardottt/depsdev) - CLI client (and Golang module) for deps.dev API. Free access to dependencies, licenses, advisories, and other critical health and security signals for open source package versions. (3 days ago)
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (4 months ago)
 - [mattgialelis/dutycontroller](https://github.com/mattgialelis/dutycontroller) - Pagerduty Kubernetes CRD (4 months ago)
 - [survivorbat/huhtest](https://github.com/survivorbat/huhtest) - huhtest is a work-in-progress test library for your huh forms (4 months ago)
 - [convco/convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation (5 months ago)

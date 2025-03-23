@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.26.2](https://github.com/ohler55/ojg/releases/tag/v1.26.2), 1 week ago) - Optimized JSON for Go
+- [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.26.2](https://github.com/ohler55/ojg/releases/tag/v1.26.2), 2 weeks ago) - Optimized JSON for Go
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 4 months ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 4 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 1 year ago) - Manage all your code quality tools with a single executable
@@ -20,8 +20,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [rickb777/date](https://github.com/rickb777/date) - A Go package for working with dates (today)
-- [edoardottt/depsdev](https://github.com/edoardottt/depsdev) - CLI client (and Golang module) for deps.dev API. Free access to dependencies, licenses, advisories, and other critical health and security signals for open source package versions. (5 days ago)
+- [rickb777/date](https://github.com/rickb777/date) - A Go package for working with dates (1 day ago)
+- [edoardottt/depsdev](https://github.com/edoardottt/depsdev) - CLI client (and Golang module) for deps.dev API. Free access to dependencies, licenses, advisories, and other critical health and security signals for open source package versions. (6 days ago)
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (4 months ago)
 - [mattgialelis/dutycontroller](https://github.com/mattgialelis/dutycontroller) - Pagerduty Kubernetes CRD (4 months ago)
 - [survivorbat/huhtest](https://github.com/survivorbat/huhtest) - huhtest is a work-in-progress test library for your huh forms (4 months ago)

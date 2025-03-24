@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (2 months ago)
+- [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (3 months ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (3 months ago)
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) - Manage all your code quality tools with a single executable (3 months ago)
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (3 months ago)
@@ -20,8 +20,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [rickb777/date](https://github.com/rickb777/date) - A Go package for working with dates (1 day ago)
-- [edoardottt/depsdev](https://github.com/edoardottt/depsdev) - CLI client (and Golang module) for deps.dev API. Free access to dependencies, licenses, advisories, and other critical health and security signals for open source package versions. (6 days ago)
+- [rickb777/date](https://github.com/rickb777/date) - A Go package for working with dates (2 days ago)
+- [edoardottt/depsdev](https://github.com/edoardottt/depsdev) - CLI client (and Golang module) for deps.dev API. Free access to dependencies, licenses, advisories, and other critical health and security signals for open source package versions. (1 week ago)
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (4 months ago)
 - [mattgialelis/dutycontroller](https://github.com/mattgialelis/dutycontroller) - Pagerduty Kubernetes CRD (4 months ago)
 - [survivorbat/huhtest](https://github.com/survivorbat/huhtest) - huhtest is a work-in-progress test library for your huh forms (4 months ago)

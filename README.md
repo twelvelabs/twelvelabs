@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (2 days ago)
+- [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (3 days ago)
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP). (1 week ago)
 - [cyberark/summon](https://github.com/cyberark/summon) - CLI that provides on-demand secrets access for common DevOps tools (1 week ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (3 weeks ago)
-- [rickb777/date](https://github.com/rickb777/date) - A Go package for working with dates (4 weeks ago)
+- [rickb777/date](https://github.com/rickb777/date) - A Go package for working with dates (1 month ago)
 
 #### 📜 My recent blog posts
 

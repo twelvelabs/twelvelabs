@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (4 days ago)
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (5 days ago)
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (2 weeks ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (3 weeks ago)
 - [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (5 months ago)
@@ -22,7 +22,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (1 month ago)
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP). (1 month ago)
-- [cyberark/summon](https://github.com/cyberark/summon) - CLI that provides on-demand secrets access for common DevOps tools (1 month ago)
+- [cyberark/summon](https://github.com/cyberark/summon) - CLI that provides on-demand secrets access for common DevOps tools (2 months ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (2 months ago)
 - [rickb777/date](https://github.com/rickb777/date) - A Go package for working with dates (2 months ago)
 

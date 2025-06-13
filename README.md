@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (6 days ago)
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (1 week ago)
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (2 weeks ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (3 weeks ago)
 - [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (5 months ago)

@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.4.0](https://github.com/twelvelabs/envctl/releases/tag/v0.4.0), today) - Manage project environment variables
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.4.1](https://github.com/twelvelabs/envctl/releases/tag/v0.4.1), today) - Manage project environment variables
 - [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.26.2](https://github.com/ohler55/ojg/releases/tag/v1.26.2), 3 months ago) - Optimized JSON for Go
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 7 months ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 7 months ago) - A project scaffolding tool written in Go

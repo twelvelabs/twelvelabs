@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (4 days ago)
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (5 days ago)
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 month ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (1 month ago)
 - [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (6 months ago)
@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.4.1](https://github.com/twelvelabs/envctl/releases/tag/v0.4.1), 4 days ago) - Manage project environment variables
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.4.1](https://github.com/twelvelabs/envctl/releases/tag/v0.4.1), 5 days ago) - Manage project environment variables
 - [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.26.2](https://github.com/ohler55/ojg/releases/tag/v1.26.2), 3 months ago) - Optimized JSON for Go
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 7 months ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 8 months ago) - A project scaffolding tool written in Go

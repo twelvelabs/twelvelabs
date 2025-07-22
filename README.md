@@ -7,7 +7,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (1 week ago)
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (1 month ago)
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) - Termite is a collection of utilities for building CLI tools in Go (2 months ago)
-- [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (6 months ago)
+- [twelvelabs/generator-app](https://github.com/twelvelabs/generator-app) - App scaffolding generators for use with the stamp CLI. (7 months ago)
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (today)
+- [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (1 day ago)
 - [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation. (1 week ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 month ago)
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (3 months ago)

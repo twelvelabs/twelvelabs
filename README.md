@@ -12,16 +12,16 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.26.8](https://github.com/ohler55/ojg/releases/tag/v1.26.8), 3 days ago) - Optimized JSON for Go
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 3 weeks ago) - Manage project environment variables
+- [ohler55/ojg](https://github.com/ohler55/ojg) ([v1.26.8](https://github.com/ohler55/ojg/releases/tag/v1.26.8), 4 days ago) - Optimized JSON for Go
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 4 weeks ago) - Manage project environment variables
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 9 months ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 9 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/stylist](https://github.com/twelvelabs/stylist) ([v0.5.0](https://github.com/twelvelabs/stylist/releases/tag/v0.5.0), 2 years ago) - Manage all your code quality tools with a single executable
 
 #### ⭐ Recent stars
 
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (2 days ago)
-- [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (2 weeks ago)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (3 days ago)
+- [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (3 weeks ago)
 - [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation. (1 month ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 month ago)
 - [snyk/parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services (3 months ago)

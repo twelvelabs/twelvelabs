@@ -20,9 +20,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [PSanetra/git-semver](https://github.com/PSanetra/git-semver) - git-semver is a command line tool to calculate semantic versions based on the git history and tags of a repository. (1 week ago)
+- [PSanetra/git-semver](https://github.com/PSanetra/git-semver) - git-semver is a command line tool to calculate semantic versions based on the git history and tags of a repository. (2 weeks ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (2 weeks ago)
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (2 weeks ago)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (3 weeks ago)
 - [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (1 month ago)
 - [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation. (1 month ago)
 

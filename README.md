@@ -24,7 +24,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (3 weeks ago)
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (1 month ago)
 - [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (1 month ago)
-- [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation. (1 month ago)
+- [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation. (2 months ago)
 
 #### 📜 My recent blog posts
 

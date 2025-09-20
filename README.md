@@ -4,7 +4,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (5 days ago)
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (6 days ago)
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (1 week ago)
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (2 months ago)
 - [twelvelabs/depctl](https://github.com/twelvelabs/depctl) - Install project dependencies with a single command. (3 months ago)
@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.4.4](https://github.com/envoyproxy/gateway/releases/tag/v1.4.4), 2 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.4.4](https://github.com/envoyproxy/gateway/releases/tag/v1.4.4), 3 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 2 months ago) - Manage project environment variables
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 10 months ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 10 months ago) - A project scaffolding tool written in Go
@@ -20,9 +20,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (1 day ago)
-- [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) - User-friendly OAuth2 CLI (1 day ago)
-- [jftuga/DateTimeMate](https://github.com/jftuga/DateTimeMate) - Golang package and CLI to compute the difference between date, time or duration (2 days ago)
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (2 days ago)
+- [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) - User-friendly OAuth2 CLI (2 days ago)
+- [jftuga/DateTimeMate](https://github.com/jftuga/DateTimeMate) - Golang package and CLI to compute the difference between date, time or duration (3 days ago)
 - [kaptinlin/jsonschema](https://github.com/kaptinlin/jsonschema) - A powerful Go JSON Schema validator library aligned with the JSON Schema Draft 2020-12. It features enhanced validation outputs and supports internationalization, making it perfect for developers requiring comprehensive schema compliance and multilingual error messaging in modern applications. (1 week ago)
 - [PSanetra/git-semver](https://github.com/PSanetra/git-semver) - git-semver is a command line tool to calculate semantic versions based on the git history and tags of a repository. (1 month ago)
 

@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.4.4](https://github.com/envoyproxy/gateway/releases/tag/v1.4.4), 4 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.4.4](https://github.com/envoyproxy/gateway/releases/tag/v1.4.4), 5 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 2 months ago) - Manage project environment variables
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 10 months ago) - Termite is a collection of utilities for building CLI tools in Go
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.7.0](https://github.com/twelvelabs/stamp/releases/tag/v0.7.0), 10 months ago) - A project scaffolding tool written in Go
@@ -20,10 +20,10 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Discover a modern bash testing library. (1 day ago)
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (3 days ago)
-- [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) - User-friendly OAuth2 CLI (3 days ago)
-- [jftuga/DateTimeMate](https://github.com/jftuga/DateTimeMate) - Golang package and CLI to compute the difference between date, time or duration (4 days ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Discover a modern bash testing library. (2 days ago)
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (4 days ago)
+- [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) - User-friendly OAuth2 CLI (4 days ago)
+- [jftuga/DateTimeMate](https://github.com/jftuga/DateTimeMate) - Golang package and CLI to compute the difference between date, time or duration (5 days ago)
 - [kaptinlin/jsonschema](https://github.com/kaptinlin/jsonschema) - A powerful Go JSON Schema validator library aligned with the JSON Schema Draft 2020-12. It features enhanced validation outputs and supports internationalization, making it perfect for developers requiring comprehensive schema compliance and multilingual error messaging in modern applications. (1 week ago)
 
 #### 📜 My recent blog posts

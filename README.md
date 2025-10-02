@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [go-enry/go-enry](https://github.com/go-enry/go-enry) - A faster file programming language detector (today)
-- [yawn/offkey](https://github.com/yawn/offkey) - Print age encrypted small secrets for offline recovery (2 days ago)
-- [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines. (5 days ago)
+- [go-enry/go-enry](https://github.com/go-enry/go-enry) - A faster file programming language detector (1 day ago)
+- [yawn/offkey](https://github.com/yawn/offkey) - Print age encrypted small secrets for offline recovery (3 days ago)
+- [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines. (6 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Discover a modern bash testing library. (1 week ago)
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (1 week ago)
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (2 weeks ago)
 
 #### 📜 My recent blog posts
 

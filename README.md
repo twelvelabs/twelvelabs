@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [elisiariocouto/jsonschema-markdown](https://github.com/elisiariocouto/jsonschema-markdown) - 📖 Generate markdown documentation based on a JSON Schema document (today)
 - [go-enry/go-enry](https://github.com/go-enry/go-enry) - A faster file programming language detector (3 weeks ago)
 - [yawn/offkey](https://github.com/yawn/offkey) - Print age encrypted small secrets for offline recovery (3 weeks ago)
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines. (1 month ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Discover a modern bash testing library. (1 month ago)
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (1 month ago)
 
 #### 📜 My recent blog posts
 

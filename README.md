@@ -12,15 +12,15 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-task/task](https://github.com/go-task/task) ([v3.45.5](https://github.com/go-task/task/releases/tag/v3.45.5), today) - A task runner / simpler Make alternative written in Go
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.6.0](https://github.com/envoyproxy/gateway/releases/tag/v1.6.0), today) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A task runner / simpler Make alternative written in Go
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.6.0](https://github.com/envoyproxy/gateway/releases/tag/v1.6.0), 1 day ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 3 weeks ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 4 months ago) - Manage project environment variables
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 1 year ago) - Termite is a collection of utilities for building CLI tools in Go
 
 #### ⭐ Recent stars
 
-- [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust (6 days ago)
+- [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust (1 week ago)
 - [elisiariocouto/jsonschema-markdown](https://github.com/elisiariocouto/jsonschema-markdown) - 📖 Generate markdown documentation based on a JSON Schema document (2 weeks ago)
 - [go-enry/go-enry](https://github.com/go-enry/go-enry) - A faster file programming language detector (1 month ago)
 - [yawn/offkey](https://github.com/yawn/offkey) - Print age encrypted small secrets for offline recovery (1 month ago)

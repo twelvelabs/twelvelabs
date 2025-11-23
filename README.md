@@ -21,7 +21,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### ⭐ Recent stars
 
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust (2 weeks ago)
-- [elisiariocouto/jsonschema-markdown](https://github.com/elisiariocouto/jsonschema-markdown) - 📖 Generate markdown documentation based on a JSON Schema document (3 weeks ago)
+- [elisiariocouto/jsonschema-markdown](https://github.com/elisiariocouto/jsonschema-markdown) - 📖 Generate markdown documentation based on a JSON Schema document (4 weeks ago)
 - [go-enry/go-enry](https://github.com/go-enry/go-enry) - A faster file programming language detector (1 month ago)
 - [yawn/offkey](https://github.com/yawn/offkey) - Print age encrypted small secrets for offline recovery (1 month ago)
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines. (1 month ago)

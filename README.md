@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [SPANDigital/cel2sql](https://github.com/SPANDigital/cel2sql) - CEL to SQL condition, compatible with PostgreSQL (2 days ago)
+- [SPANDigital/cel2sql](https://github.com/SPANDigital/cel2sql) - CEL to SQL condition, compatible with PostgreSQL (3 days ago)
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust (3 weeks ago)
 - [elisiariocouto/jsonschema-markdown](https://github.com/elisiariocouto/jsonschema-markdown) - 📖 Generate markdown documentation based on a JSON Schema document (1 month ago)
 - [go-enry/go-enry](https://github.com/go-enry/go-enry) - A faster file programming language detector (1 month ago)

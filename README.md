@@ -13,16 +13,16 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 🔭 Latest releases I've contributed to
 
 - [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A task runner / simpler Make alternative written in Go
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.4.6](https://github.com/envoyproxy/gateway/releases/tag/v1.4.6), 2 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.4.6](https://github.com/envoyproxy/gateway/releases/tag/v1.4.6), 3 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 4 months ago) - Manage project environment variables
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 1 year ago) - Termite is a collection of utilities for building CLI tools in Go
 
 #### ⭐ Recent stars
 
-- [k1LoW/httpstub](https://github.com/k1LoW/httpstub) - httpstub provides router ( http.Handler ), server ( *httptest.Server ) and client ( *http.Client ) for stubbing, for testing in Go. (today)
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, workflows, profiling, OpenAPI and response diffs. (1 day ago)
-- [SPANDigital/cel2sql](https://github.com/SPANDigital/cel2sql) - CEL to SQL condition, compatible with PostgreSQL (5 days ago)
+- [k1LoW/httpstub](https://github.com/k1LoW/httpstub) - httpstub provides router ( http.Handler ), server ( *httptest.Server ) and client ( *http.Client ) for stubbing, for testing in Go. (1 day ago)
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, workflows, profiling, OpenAPI and response diffs. (2 days ago)
+- [SPANDigital/cel2sql](https://github.com/SPANDigital/cel2sql) - CEL to SQL condition, compatible with PostgreSQL (6 days ago)
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust (3 weeks ago)
 - [elisiariocouto/jsonschema-markdown](https://github.com/elisiariocouto/jsonschema-markdown) - 📖 Generate markdown documentation based on a JSON Schema document (1 month ago)
 

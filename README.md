@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (today)
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all (today)
+- [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly (today)
 - [k1LoW/httpstub](https://github.com/k1LoW/httpstub) - httpstub provides router ( http.Handler ), server ( *httptest.Server ) and client ( *http.Client ) for stubbing, for testing in Go. (1 day ago)
 - [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, workflows, profiling, OpenAPI and response diffs. (2 days ago)
-- [SPANDigital/cel2sql](https://github.com/SPANDigital/cel2sql) - CEL to SQL condition, compatible with PostgreSQL (6 days ago)
-- [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust (3 weeks ago)
-- [elisiariocouto/jsonschema-markdown](https://github.com/elisiariocouto/jsonschema-markdown) - 📖 Generate markdown documentation based on a JSON Schema document (1 month ago)
 
 #### 📜 My recent blog posts
 

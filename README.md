@@ -13,18 +13,18 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 🔭 Latest releases I've contributed to
 
 - [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A task runner / simpler Make alternative written in Go
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.4.6](https://github.com/envoyproxy/gateway/releases/tag/v1.4.6), 5 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.4.6](https://github.com/envoyproxy/gateway/releases/tag/v1.4.6), 6 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 4 months ago) - Manage project environment variables
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 1 year ago) - Termite is a collection of utilities for building CLI tools in Go
 
 #### ⭐ Recent stars
 
-- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (2 days ago)
-- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (2 days ago)
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all (2 days ago)
-- [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly (2 days ago)
-- [k1LoW/httpstub](https://github.com/k1LoW/httpstub) - httpstub provides router ( http.Handler ), server ( *httptest.Server ) and client ( *http.Client ) for stubbing, for testing in Go. (3 days ago)
+- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (3 days ago)
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (3 days ago)
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all (3 days ago)
+- [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly (3 days ago)
+- [k1LoW/httpstub](https://github.com/k1LoW/httpstub) - httpstub provides router ( http.Handler ), server ( *httptest.Server ) and client ( *http.Client ) for stubbing, for testing in Go. (4 days ago)
 
 #### 📜 My recent blog posts
 

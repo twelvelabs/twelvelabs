@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [Gaurav-Gosain/sip](https://github.com/Gaurav-Gosain/sip) - Serve Bubble Tea apps through the browser - Drinking tea through the browser 🍵 (today)
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (3 days ago)
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (3 days ago)
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all (3 days ago)
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly (3 days ago)
-- [k1LoW/httpstub](https://github.com/k1LoW/httpstub) - httpstub provides router ( http.Handler ), server ( *httptest.Server ) and client ( *http.Client ) for stubbing, for testing in Go. (4 days ago)
 
 #### 📜 My recent blog posts
 

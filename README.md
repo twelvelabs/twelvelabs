@@ -12,19 +12,19 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.6.1](https://github.com/envoyproxy/gateway/releases/tag/v1.6.1), today) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A task runner / simpler Make alternative written in Go
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.6.1](https://github.com/envoyproxy/gateway/releases/tag/v1.6.1), 1 day ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 1 month ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 4 months ago) - Manage project environment variables
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 1 year ago) - Termite is a collection of utilities for building CLI tools in Go
 
 #### ⭐ Recent stars
 
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (today)
-- [Gaurav-Gosain/sip](https://github.com/Gaurav-Gosain/sip) - Serve Bubble Tea apps through the browser - Drinking tea through the browser 🍵 (2 days ago)
-- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (5 days ago)
-- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (5 days ago)
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all (5 days ago)
+- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (1 day ago)
+- [Gaurav-Gosain/sip](https://github.com/Gaurav-Gosain/sip) - Serve Bubble Tea apps through the browser - Drinking tea through the browser 🍵 (3 days ago)
+- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (6 days ago)
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (6 days ago)
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all (6 days ago)
 
 #### 📜 My recent blog posts
 

@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) ([v3.46.4](https://github.com/go-task/task/releases/tag/v3.46.4), today) - A task runner / simpler Make alternative written in Go
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.6.1](https://github.com/envoyproxy/gateway/releases/tag/v1.6.1), 2 weeks ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 2 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 5 months ago) - Manage project environment variables

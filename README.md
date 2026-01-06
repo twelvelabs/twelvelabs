@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [go-analyze/charts](https://github.com/go-analyze/charts) - Golang charting and graphing library (4 weeks ago)
+- [go-analyze/charts](https://github.com/go-analyze/charts) - Golang charting and graphing library (1 month ago)
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (1 month ago)
 - [Gaurav-Gosain/sip](https://github.com/Gaurav-Gosain/sip) - Serve Bubble Tea apps through the browser - Drinking tea through the browser 🍵 (1 month ago)
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (1 month ago)

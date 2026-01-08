@@ -7,7 +7,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 months ago)
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (2 months ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (3 months ago)
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (3 months ago)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (4 months ago)
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (5 months ago)
 
 #### 🔭 Latest releases I've contributed to

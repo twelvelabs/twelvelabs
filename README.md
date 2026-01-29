@@ -13,7 +13,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 🔭 Latest releases I've contributed to
 
 - [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.5.8](https://github.com/envoyproxy/gateway/releases/tag/v1.5.8), 2 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.5.8](https://github.com/envoyproxy/gateway/releases/tag/v1.5.8), 3 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 3 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 6 months ago) - Manage project environment variables
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 1 year ago) - Termite is a collection of utilities for building CLI tools in Go
@@ -23,8 +23,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [go-analyze/charts](https://github.com/go-analyze/charts) - Golang charting and graphing library (1 month ago)
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (1 month ago)
 - [Gaurav-Gosain/sip](https://github.com/Gaurav-Gosain/sip) - Serve Bubble Tea apps through the browser - Drinking tea through the browser 🍵 (1 month ago)
-- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (1 month ago)
-- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (1 month ago)
+- [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (2 months ago)
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (2 months ago)
 
 #### 📜 My recent blog posts
 

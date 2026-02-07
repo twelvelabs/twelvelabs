@@ -7,13 +7,13 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (3 months ago)
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (3 months ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (4 months ago)
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (4 months ago)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (5 months ago)
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.7.0](https://github.com/envoyproxy/gateway/releases/tag/v1.7.0), 1 day ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.7.0](https://github.com/envoyproxy/gateway/releases/tag/v1.7.0), 2 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 3 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 6 months ago) - Manage project environment variables
 - [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 1 year ago) - Termite is a collection of utilities for building CLI tools in Go

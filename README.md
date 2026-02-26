@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management. (4 days ago)
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management. (5 days ago)
 - [go-analyze/charts](https://github.com/go-analyze/charts) - Golang charting and graphing library (2 months ago)
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (2 months ago)
 - [Gaurav-Gosain/sip](https://github.com/Gaurav-Gosain/sip) - Serve Bubble Tea apps through the browser - Drinking tea through the browser 🍵 (2 months ago)

@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [Songmu/skillsmith](https://github.com/Songmu/skillsmith) (today)
 - [suzuki-shunsuke/ghtkn](https://github.com/suzuki-shunsuke/ghtkn) - A CLI to create short-lived (8 hours) GitHub App User Access Token for secure local development (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 weeks ago)
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management. (3 weeks ago)
 - [go-analyze/charts](https://github.com/go-analyze/charts) - Golang charting and graphing library (3 months ago)
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (3 months ago)
 
 #### 📜 My recent blog posts
 

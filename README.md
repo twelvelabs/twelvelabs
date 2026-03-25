@@ -20,8 +20,8 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [jacoscaz/taskparser](https://github.com/jacoscaz/taskparser) - A CLI tool to extract tasks and worklogs out of Markdown documents. (3 days ago)
-- [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone binary. (3 days ago)
+- [jacoscaz/taskparser](https://github.com/jacoscaz/taskparser) - A CLI tool to extract tasks and worklogs out of Markdown documents. (4 days ago)
+- [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone binary. (4 days ago)
 - [Songmu/skillsmith](https://github.com/Songmu/skillsmith) (1 week ago)
 - [suzuki-shunsuke/ghtkn](https://github.com/suzuki-shunsuke/ghtkn) - A CLI to create short-lived (8 hours) GitHub App User Access Token for secure local development (2 weeks ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 weeks ago)

@@ -8,11 +8,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (5 months ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (6 months ago)
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (7 months ago)
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (8 months ago)
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
+- [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), 1 day ago) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.6.5](https://github.com/envoyproxy/gateway/releases/tag/v1.6.5), 3 weeks ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 5 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 8 months ago) - Manage project environment variables

@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-task/task](https://github.com/go-task/task) ([v3.50.0](https://github.com/go-task/task/releases/tag/v3.50.0), today) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
+- [go-task/task](https://github.com/go-task/task) ([v3.50.0](https://github.com/go-task/task/releases/tag/v3.50.0), 1 day ago) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.6.5](https://github.com/envoyproxy/gateway/releases/tag/v1.6.5), 1 month ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 5 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 9 months ago) - Manage project environment variables
@@ -22,7 +22,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [jacoscaz/taskparser](https://github.com/jacoscaz/taskparser) - A CLI tool to extract tasks and worklogs out of Markdown documents. (3 weeks ago)
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone binary. (3 weeks ago)
-- [Songmu/skillsmith](https://github.com/Songmu/skillsmith) (3 weeks ago)
+- [Songmu/skillsmith](https://github.com/Songmu/skillsmith) (4 weeks ago)
 - [suzuki-shunsuke/ghtkn](https://github.com/suzuki-shunsuke/ghtkn) - A CLI to create short-lived (8 hours) GitHub App User Access Token for secure local development (1 month ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 month ago)
 

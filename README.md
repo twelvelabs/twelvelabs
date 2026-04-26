@@ -20,7 +20,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [fiberplane/drift](https://github.com/fiberplane/drift) - Bind specs to code and check for drift. (5 days ago)
+- [fiberplane/drift](https://github.com/fiberplane/drift) - Bind specs to code and check for drift. (6 days ago)
 - [jacoscaz/taskparser](https://github.com/jacoscaz/taskparser) - A CLI tool to extract tasks and worklogs out of Markdown documents. (1 month ago)
 - [aliev/baker](https://github.com/aliev/baker) - Baker is a command-line tool that helps you quickly scaffold new projects. It supports language-independent hooks for automating routine tasks. Baker is written in Rust and distributed as a standalone binary. (1 month ago)
 - [Songmu/skillsmith](https://github.com/Songmu/skillsmith) (1 month ago)

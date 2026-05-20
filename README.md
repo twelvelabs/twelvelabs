@@ -16,7 +16,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.8.0](https://github.com/envoyproxy/gateway/releases/tag/v1.8.0), 1 week ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 7 months ago) - A project scaffolding tool written in Go
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 10 months ago) - Manage project environment variables
-- [twelvelabs/termite](https://github.com/twelvelabs/termite) ([v0.13.2](https://github.com/twelvelabs/termite/releases/tag/v0.13.2), 2 years ago) - Termite is a collection of utilities for building CLI tools in Go
+- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 2 years ago) - Generate markdown documents from JSON schema files.
 
 #### ⭐ Recent stars
 

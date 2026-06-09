@@ -5,7 +5,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (7 months ago)
-- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (7 months ago)
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (8 months ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (8 months ago)
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (9 months ago)
 - [twelvelabs/envctl](https://github.com/twelvelabs/envctl) - Manage project environment variables (11 months ago)
@@ -13,9 +13,9 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 🔭 Latest releases I've contributed to
 
 - [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.7.4](https://github.com/envoyproxy/gateway/releases/tag/v1.7.4), 3 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.7.4](https://github.com/envoyproxy/gateway/releases/tag/v1.7.4), 4 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.9.0](https://github.com/twelvelabs/stamp/releases/tag/v0.9.0), 7 months ago) - A project scaffolding tool written in Go
-- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 10 months ago) - Manage project environment variables
+- [twelvelabs/envctl](https://github.com/twelvelabs/envctl) ([v0.5.0](https://github.com/twelvelabs/envctl/releases/tag/v0.5.0), 11 months ago) - Manage project environment variables
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 2 years ago) - Generate markdown documents from JSON schema files.
 
 #### ⭐ Recent stars

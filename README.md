@@ -20,11 +20,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (today)
 - [blopker/codebook](https://github.com/blopker/codebook) - An unholy spell checker for code (2 days ago)
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (2 weeks ago)
 - [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (1 month ago)
 - [fiberplane/drift](https://github.com/fiberplane/drift) - Bind specs to code and check for drift. (2 months ago)
-- [jacoscaz/taskparser](https://github.com/jacoscaz/taskparser) - A CLI tool to extract tasks and worklogs out of Markdown documents. (3 months ago)
 
 #### 📜 My recent blog posts
 

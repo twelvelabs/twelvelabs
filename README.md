@@ -12,7 +12,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.10.0](https://github.com/twelvelabs/stamp/releases/tag/v0.10.0), today) - A project scaffolding tool written in Go
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.11.0](https://github.com/twelvelabs/stamp/releases/tag/v0.11.0), today) - A project scaffolding tool written in Go
 - [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.7.5](https://github.com/envoyproxy/gateway/releases/tag/v1.7.5), 6 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 2 years ago) - Generate markdown documents from JSON schema files.

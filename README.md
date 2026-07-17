@@ -19,11 +19,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer. (today)
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (1 week ago)
 - [blopker/codebook](https://github.com/blopker/codebook) - An unholy spell checker for code (1 week ago)
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (3 weeks ago)
 - [google/ax](https://github.com/google/ax) - Google&#39;s open source distributed agent runtime (1 month ago)
-- [fiberplane/drift](https://github.com/fiberplane/drift) - Bind specs to code and check for drift. (2 months ago)
 
 #### 📜 My recent blog posts
 

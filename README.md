@@ -11,15 +11,15 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.8.3](https://github.com/envoyproxy/gateway/releases/tag/v1.8.3), 1 day ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), 1 day ago) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.8.3](https://github.com/envoyproxy/gateway/releases/tag/v1.8.3), 2 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.11.0](https://github.com/twelvelabs/stamp/releases/tag/v0.11.0), 1 week ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 2 years ago) - Generate markdown documents from JSON schema files.
 
 #### ⭐ Recent stars
 
-- [Gaurav-Gosain/tuitest](https://github.com/Gaurav-Gosain/tuitest) - Headless testing harness for terminal programs: real PTY, VT emulator, deterministic waits, and golden screen snapshots (4 days ago)
-- [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer. (6 days ago)
+- [Gaurav-Gosain/tuitest](https://github.com/Gaurav-Gosain/tuitest) - Headless testing harness for terminal programs: real PTY, VT emulator, deterministic waits, and golden screen snapshots (5 days ago)
+- [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer. (1 week ago)
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (2 weeks ago)
 - [blopker/codebook](https://github.com/blopker/codebook) - An unholy spell checker for code (2 weeks ago)
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (4 weeks ago)

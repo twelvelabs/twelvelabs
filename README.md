@@ -4,25 +4,25 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### 👷 Check out what I'm currently working on
 
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 week ago)
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 weeks ago)
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (9 months ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (10 months ago)
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), today) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.8.3](https://github.com/envoyproxy/gateway/releases/tag/v1.8.3), 5 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
-- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.11.0](https://github.com/twelvelabs/stamp/releases/tag/v0.11.0), 1 week ago) - A project scaffolding tool written in Go
+- [go-task/task](https://github.com/go-task/task) ([nightly](https://github.com/go-task/task/releases/tag/nightly), 1 day ago) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ([v1.8.3](https://github.com/envoyproxy/gateway/releases/tag/v1.8.3), 6 days ago) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+- [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.11.0](https://github.com/twelvelabs/stamp/releases/tag/v0.11.0), 2 weeks ago) - A project scaffolding tool written in Go
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) ([v0.6.0](https://github.com/twelvelabs/schemadoc/releases/tag/v0.6.0), 2 years ago) - Generate markdown documents from JSON schema files.
 
 #### ⭐ Recent stars
 
-- [imjasonh/gos](https://github.com/imjasonh/gos) - Run simple .go files as scripts (2 days ago)
+- [imjasonh/gos](https://github.com/imjasonh/gos) - Run simple .go files as scripts (3 days ago)
 - [Gaurav-Gosain/tuitest](https://github.com/Gaurav-Gosain/tuitest) - Headless testing harness for terminal programs: real PTY, VT emulator, deterministic waits, and golden screen snapshots (1 week ago)
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer. (1 week ago)
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (2 weeks ago)
-- [blopker/codebook](https://github.com/blopker/codebook) - An unholy spell checker for code (2 weeks ago)
+- [blopker/codebook](https://github.com/blopker/codebook) - An unholy spell checker for code (3 weeks ago)
 
 #### 📜 My recent blog posts
 

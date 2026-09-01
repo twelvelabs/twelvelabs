@@ -18,11 +18,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure. (today)
 - [ishepard/pydriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories (2 days ago)
 - [sdsc-ordes/gimie](https://github.com/sdsc-ordes/gimie) - Extract linked metadata from repositories (2 days ago)
 - [vonzosten/gitparse](https://github.com/vonzosten/gitparse) - A typed, modular Python library for structured repository parsing and analysis. Extract metadata, content, and statistics from Git repositories with ease. (2 days ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 days ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (6 days ago)
 
 #### 📜 My recent blog posts
 

@@ -7,7 +7,7 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (1 month ago)
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (10 months ago)
 - [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (11 months ago)
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (11 months ago)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -18,11 +18,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure. (3 days ago)
-- [ishepard/pydriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories (5 days ago)
-- [sdsc-ordes/gimie](https://github.com/sdsc-ordes/gimie) - Extract linked metadata from repositories (5 days ago)
-- [vonzosten/gitparse](https://github.com/vonzosten/gitparse) - A typed, modular Python library for structured repository parsing and analysis. Extract metadata, content, and statistics from Git repositories with ease. (5 days ago)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (5 days ago)
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure. (4 days ago)
+- [ishepard/pydriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories (6 days ago)
+- [sdsc-ordes/gimie](https://github.com/sdsc-ordes/gimie) - Extract linked metadata from repositories (6 days ago)
+- [vonzosten/gitparse](https://github.com/vonzosten/gitparse) - A typed, modular Python library for structured repository parsing and analysis. Extract metadata, content, and statistics from Git repositories with ease. (6 days ago)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (6 days ago)
 
 #### 📜 My recent blog posts
 

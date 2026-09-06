@@ -18,11 +18,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 #### ⭐ Recent stars
 
+- [bomly-dev/bomly-cli](https://github.com/bomly-dev/bomly-cli) - Free, open-source CLI for dependency intelligence, SBOMs, vulnerability auditing, and CI policy gates. (today)
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (CNSA 2.0, NIST IR 8547), and regulatory gates for NTIA, FDA, EU CRA, BSI TR-03183, EUCC, SSDF, EO 14028, and the EU AI Act. (today)
 - [apple/pkl-vscode](https://github.com/apple/pkl-vscode) - Pkl language support for VS Code (1 day ago)
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure. (5 days ago)
 - [ishepard/pydriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories (1 week ago)
-- [sdsc-ordes/gimie](https://github.com/sdsc-ordes/gimie) - Extract linked metadata from repositories (1 week ago)
-- [vonzosten/gitparse](https://github.com/vonzosten/gitparse) - A typed, modular Python library for structured repository parsing and analysis. Extract metadata, content, and statistics from Git repositories with ease. (1 week ago)
 
 #### 📜 My recent blog posts
 

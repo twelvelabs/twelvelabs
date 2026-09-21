@@ -6,7 +6,6 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 months ago)
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (11 months ago)
-- [twelvelabs/schemadoc](https://github.com/twelvelabs/schemadoc) - Generate markdown documents from JSON schema files. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 

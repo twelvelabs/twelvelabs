@@ -5,11 +5,11 @@ My name is [Skip Baney](https://twelvelabs.com), and I occasionally write softwa
 #### 👷 Check out what I'm currently working on
 
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) - A project scaffolding tool written in Go (2 months ago)
-- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (11 months ago)
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-task/task](https://github.com/go-task/task) ([v3.54.0](https://github.com/go-task/task/releases/tag/v3.54.0), 5 days ago) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
+- [go-task/task](https://github.com/go-task/task) ([v3.54.0](https://github.com/go-task/task/releases/tag/v3.54.0), 6 days ago) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [twelvelabs/stamp](https://github.com/twelvelabs/stamp) ([v0.11.0](https://github.com/twelvelabs/stamp/releases/tag/v0.11.0), 2 months ago) - A project scaffolding tool written in Go
 
 #### ⭐ Recent stars
